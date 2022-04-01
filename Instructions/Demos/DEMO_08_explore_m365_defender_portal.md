@@ -1,38 +1,20 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>Demo</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>مدخل Microsoft 365 Defender</div></td>
-  <td><div>الوحدة 3، الدرس 5: وصف قدرات حلول الأمان في Microsoft: وصف قدرات إدارة الأمان في Microsoft 365</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
+---
+Demo:
+  title: مدخل Microsoft 365 Defender
+  module: 'Module 3 Lesson 5: Describe the capabilities of Microsoft security solutions: Describe security management capabilities of Microsoft 365'
+ms.openlocfilehash: 48d70c8773c76e590a6e18ae6173f7240dca2b79
+ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "137893705"
+---
+# <a name="demo-the-microsoft-365-defender-portal"></a>العرض التوضيحي: مدخل Microsoft 365 Defender
 
-
-# العرض التوضيحي: مدخل Microsoft 365 Defender
-
-### سيناريو العرض التوضيحي
+### <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 في هذا العرض التوضيحي، سوف تستعرض مدخل Microsoft 365 Defender عن طريق السير في المحتوى المعروض على الصفحة المنتقَل إليها. ستتعرف أيضًا على الخيارات الموجودة على لوحة التنقل والتي توفر وصولاً سريعًا إلى الوظائف التي تعد جزءًا من حل Microsoft Extended Detection and Response (XDR): Microsoft Defender for Endpoints وMicrosoft Defender for Office 365 (البريد الإلكتروني والتعاون).  وأخيرًا، ستستعرض أيضًا كيف يمكن لحل Microsoft Secure Score أن يساعد مؤسسة على تحسين وضعها الأمني.
 
-#### العرض التوضيحي - الجزء 1:  استكشاف الصفحة المنتقل إليها في Microsoft 365 Defender.
+#### <a name="demo-part-1--explore-the-microsoft-365-defender-landing-page"></a>العرض التوضيحي - الجزء 1:  استكشاف الصفحة المنتقل إليها في Microsoft 365 Defender.
 
 1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **admin.microsoft.com**.  يجب أن تكون قد سجلت الدخول بالفعل كمسؤول.  إذا لم تكن قد فعلت، قم بتسجيل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
 
@@ -54,11 +36,11 @@
 
 1. سينقلك تحديد عنوان البطاقة إلى معلومات إضافية عن هذا الموضوع. سوف تستكشف هذا في المهمة التالية.  اترك نافذة المستعرض مفتوحة.
 
-#### العرض التوضيحي - الجزء 2: في هذا الجزء من العرض التوضيحي، ستستعرض كيف يمكن لحل Microsoft Secure Score أن يساعد مؤسسة على تحسين وضعها الأمني.
+#### <a name="demo-part-2-in-this-part-of-the-demo-you-will-show-how-microsoft-secure-score-can-help-an-organization-improve-its-security-posture"></a>العرض التوضيحي الجزء 2: في هذا الجزء من العرض التوضيحي، ستستعرض كيف يمكن لحل Microsoft Secure Score أن يساعد مؤسسة على تحسين وضعها الأمني.
 
 1. من صفحة الترحيب الخاصة بمدخل Microsoft 365 Defender، حدد **Microsoft Secure Score**، من شريط عنوان البطاقة (سيتحول النص إلى اللون الأزرق).  بدلًا من ذلك، يمكنك تحديد **درجة الأمان** من لوحة التنقل اليسرى.
 
-1. تفتح صفحة Microsoft Secure Score على علامة التبويب "نظرة عامة".  Microsoft Secure Score عبارة عن قياس للوضع الأمني للمؤسسة. ويتم عرض درجة الأمان لمؤسستك كنسبة مئوية، إلى جانب عدد النقاط التي حققتها من إجمالي النقاط الممكنة ومقسمة حسب الفئة. حدد **تضمين**، بجوار المكان الذي تظهر فيه عبارة "درجة الأمان خاصتك". ويمكنك اختيار طريقة عرض درجاتك لتتضمن الدرجة القابلة للتحقيق والدرجة المخططة ودرجة الترخيص الحالية.
+1. تفتح صفحة Microsoft Secure Score على علامة التبويب "نظرة عامة".  Microsoft Secure Score عبارة عن قياس للوضع الأمني للمؤسسة. ويتم عرض درجة الأمان لمؤسستك كنسبة مئوية، إلى جانب عدد النقاط التي حققتها من إجمالي النقاط الممكنة ومقسمة حسب الفئة. حدد **Include** بجوار المكان الذي تظهر فيه درجة الأمان. يمكنك اختيار طريقة عرض الدرجات لتشمل النتيجة القابلة للتحقيق والنتيجة المخطط لها ودرجة الترخيص الحالية.
 
 1. تتضمن صفحة "النظرة العامة" أيضًا أهم إجراءات التحسين، ودرجة المقارنة، والمحفوظات، والموارد الإضافية.
 
@@ -74,6 +56,6 @@
 
 1. أغلق صفحة المستعرض.
 
-#### المراجعة
+#### <a name="review"></a>مراجعة
 
 في هذا العرض التوضيحي، استكشفت مدخل Microsoft 365 Defender عن طريق التنقل في المحتوى المعروض على الصفحة المنتقَل إليها. واستكشفت أيضًا الخيارات الموجودة على لوحة التنقل والتي توفر وصولاً سريعًا إلى الوظائف التي تعد جزءًا من حل Microsoft Extended Detection and Response (XDR) وMicrosoft Defender for Endpoints وMicrosoft Defender for Office 365 (البريد الإلكتروني والتعاون).  وأخيرًا، استكشفت أيضًا كيف يمكن لحل Microsoft Secure Score أن يساعد مؤسسة على تحسين وضعها الأمني.

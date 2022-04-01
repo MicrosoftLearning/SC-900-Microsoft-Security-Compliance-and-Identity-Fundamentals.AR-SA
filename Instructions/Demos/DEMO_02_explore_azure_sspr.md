@@ -1,34 +1,17 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>Demo</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD</div></td>
-  <td><div>الوحدة 2، الدرس 2: وصف قدرات حلول إدارة الوصول والهوية في Microsoft: وصف طرق المصادقة المختلفة في Azure AD</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
+---
+Demo:
+  title: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure Active Directory
+  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
+ms.openlocfilehash: 8b5ab5e9ba2670841d8bcf897cbfb4f6e76c9265
+ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "137893720"
+---
+# <a name="demo-azure-active-directory-self-service-password-reset-sspr"></a>العرض التوضيحي: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD (SSPR)
 
-# العرض التوضيحي: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD (SSPR)
-
-### سيناريو العرض التوضيحي
+### <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
 في هذا العرض التوضيحي، ستتعرف على الإعدادات المختلفة المرتبطة بتمكين إعادة تعيين كلمة مرور الخدمة الذاتية.
 
@@ -57,7 +40,7 @@
 
 1. اترك صفحة المستعرض مفتوحة للعرض التوضيحي التالي.
 
-#### المراجعة
+#### <a name="review"></a>مراجعة
 
 في هذا العرض التوضيحي، تعرفت على الإعدادات المرتبطة بتمكين إعادة تعيين كلمة مرور الخدمة الذاتية. 
 
