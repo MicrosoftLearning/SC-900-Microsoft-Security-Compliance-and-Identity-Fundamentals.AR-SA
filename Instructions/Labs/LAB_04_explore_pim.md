@@ -2,12 +2,12 @@
 lab:
   title: 'استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة. '
   module: 'Module 2 Lesson 4: Describe the identity protection and governance capabilities of Azure AD: Describe Azure Identity Protection.'
-ms.openlocfilehash: 1bbe93105312be8b5a22c078d42def2a6daefc6b
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: a291567279c9ffd6ba9b47154390dc8c418b1527
+ms.sourcegitcommit: 59ed885dd424cb6d505bbe0cc0ab2adf52e03aef
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893685"
+ms.lasthandoff: 04/07/2022
+ms.locfileid: "141489229"
 ---
 # <a name="lab-explore-identity-governance-in-azure-ad-with-privileged-identity-management"></a>نشاط معملي: استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة.
 
@@ -50,9 +50,9 @@ ms.locfileid: "137893685"
 
 2. من لوحة التنقل اليسرى، حدد **إدارة الهوية**.
 
-3. من النافذة الرئيسية، تأكد من وضع خط تحت **البدء** ثم حدد "**إدارة تعيينات الأدوار**"، في الجزء الأوسط الأيمن من الشاشة.  بدلاً من ذلك، من لوحة التنقل اليسرى، ضمن إدارة الهويات المميزة، حدد **أدوار Azure AD**.
+3. من لوحة التنقل اليسرى، ضمن إدارة الهويات المميزة، حدد **أدوار Azure AD**.
 
-4. أنت الآن في نافذة البدء السريع لإدارة الهويات المتميزة.  حدد **إدارة الوصول**.
+4. أنت الآن في نافذة البدء السريع لإدارة الهويات المتميزة.  حدد **Manage**.
 
 5. أنت الآن في صفحة أدوار Contoso.  في شريط البحث، في الجزء العلوي من الصفحة، أدخل **المستخدم**.  من نتائج البحث، حدد **مسؤول المستخدم**.
 
@@ -85,7 +85,7 @@ ms.locfileid: "137893685"
 19. قم بتسجيل الخروج من خلال تحديد أيقونة المستخدم بجوار عنوان البريد الإلكتروني في الزاوية العلوية اليمنى من الشاشة وتحديد **تسجيل الخروج**. ثم أغلق جميع نوافذ المستعرض.
 
 
-#### <a name="task-3-task-3--in-this-task-you-as-diego-siciliani-will-sign-in-to-the-azure-portal-to-access-the-privileged-identity-management-capability-of-azure-active-directory-to-activate-the-your-assignment-as-user-administrator--once-activated-you-will-make-some-configuration-changes-to-an-existing-user-note-for-this-task-you-will-need-access-to-a-mobile-device-to-which-you-have-immediate-access-and-can-receive-text-messages"></a>المهمة 3: المهمة 3:  في هذه المهمة، ستقوم -بصفتك Diego Siciliani- بتسجيل الدخول إلى مدخل Azure، للوصول إلى قدرة إدارة الهويات المتميزة في Azure Active Directory لتنشيط تعيينك كمسؤول مستخدم.  بمجرد التنشيط، ستقوم بإجراء بعض تغييرات التكوين على مستخدم حالي. ملاحظة: لهذه المهمة، ستحتاج إلى الوصول إلى جهاز محمول يمكنك الوصول إليه فورًا ويمكنك تلقي رسائل نصية.
+#### <a name="task-3-in-this-task-you-as-diego-siciliani-will-sign-in-to-the-azure-portal-to-access-the-privileged-identity-management-capability-of-azure-active-directory-to-activate-the-your-assignment-as-user-administrator--once-activated-you-will-make-some-configuration-changes-to-an-existing-user-note-for-this-task-you-will-need-access-to-a-mobile-device-to-which-you-have-immediate-access-and-can-receive-text-messages"></a>المهمة 3: في هذه المهمة، ستقوم -بصفتك Diego Siciliani- بتسجيل الدخول إلى مدخل Azure، للوصول إلى قدرة إدارة الهويات المتميزة في Azure Active Directory لتنشيط تعيينك كمسؤول مستخدم.  بمجرد التنشيط، ستقوم بإجراء بعض تغييرات التكوين على مستخدم حالي. ملاحظة: لهذه المهمة، ستحتاج إلى الوصول إلى جهاز محمول يمكنك الوصول إليه فورًا ويمكنك تلقي رسائل نصية.
 
 1. افتح مستعرض Microsoft Edge.  في شريط عنوان المستعرض، أدخل **portal.azure.com**.
 
