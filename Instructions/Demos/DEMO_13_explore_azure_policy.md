@@ -1,13 +1,13 @@
 ---
 Demo:
   title: نهج Azure
-  module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 898e2d2ae228baf6acbffd7301fcbdf4a6a2dba5
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+  module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
+ms.openlocfilehash: 502bc783d6de1a8c4454df90550aac24d0c16d22
+ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893700"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "142614176"
 ---
 # <a name="demo-azure-policy"></a>العرض التوضيحي: نهج Azure
 
@@ -56,7 +56,7 @@ ms.locfileid: "137893700"
 
 1. في حقل مجموعة الموارد، أدخل **SC900-Labs**.
 
-1. اترك إعدادات "المنطقة" على الإعداد الافتراضي، ثم حدد **Next: Tags**.
+1. اترك إعداد Region على الإعداد الافتراضي، ثم حدد **Next: Tags**.
 
 1. اترك حقل اسم وقيمة العلامة فارغًا.  لا تملأ الحقل، ثم حدد **مراجعة + إنشاء**.
 
@@ -68,7 +68,7 @@ ms.locfileid: "137893700"
 
 1. من نافذة إنشاء مجموعة موارد، حدد **<السابق**.
 
-1. لقد عدت إلى صفحة "العلامات" لإنشاء مجموعة موارد.  في حقل "الاسم"، أدخل "البيئة"، وفي حقل القيمة أدخل **SC900-Labs**، ثم حدد **Next: Review + Create >** .
+1. لقد عدت إلى صفحة "العلامات" لإنشاء مجموعة موارد.  في حقل الاسم، أدخل Environment؛ وفي حقل القيمة، أدخل **SC900-Labs**، ثم حدد **Next: Review + Create >** .
 
 1. تحقق من العلامة وحدد **إنشاء**.
 

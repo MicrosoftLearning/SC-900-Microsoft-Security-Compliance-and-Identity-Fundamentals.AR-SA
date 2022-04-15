@@ -1,13 +1,13 @@
 ---
 lab:
   title: استكشاف سير عمل eDiscovery الأساسي
-  module: 'Module 4 Lesson 4: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft 365'
-ms.openlocfilehash: cb7b0e4c2d7b2ac980e829f24ebbdbb31965e2b8
-ms.sourcegitcommit: 965f24bd5f74be6d0841bf526259a5651af4fdf5
+  module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft 365'
+ms.openlocfilehash: 0754237aa892e9fe31ad2eea0811642bce929fe8
+ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/02/2022
-ms.locfileid: "139253901"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "142614367"
 ---
 # <a name="lab-explore-the-core-ediscovery-workflow"></a>نشاط معملي: استكشاف سير عمل eDiscovery الأساسي
 
@@ -22,7 +22,7 @@ ms.locfileid: "139253901"
  افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **admin.microsoft.com**.
 
 1. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
-    1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
+    1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
     
     1. أدخل كلمة مرور المسؤول التي يجب أن يوفرها موفر استضافة النشاط المعملي خاصتك. حدد **"Sign in"**.
     1. عند مطالبتك بالبقاء مسجلاً للدخول، حدد **نعم**. ينقلك هذا إلى صفحة مركز مسؤولي Microsoft 365.
