@@ -1,13 +1,13 @@
 ---
 Demo:
   title: أوصاف الحساسية في Microsoft 365
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe information protection and governance capabilities of Microsoft 365'
-ms.openlocfilehash: 00da5f8577c31a02d1afb9afcfe8e84e89c07fa9
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+  module: 'Module 4 Lesson 3: Describe the capabilities of Microsoft compliance solutions: Describe information protection and governance capabilities of Microsoft 365'
+ms.openlocfilehash: 489021addff2c867ace4460708f5c880c8ae3e4f
+ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893701"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "142614224"
 ---
 # <a name="demo-sensitivity-labels-in-microsoft-365"></a>العرض التوضيحي: أوصاف الحساسية في Microsoft 365
 
@@ -32,7 +32,7 @@ ms.locfileid: "137893701"
 
 1. في لوحة التنقل اليسرى، ضمن الحلول، حدد **حماية المعلومات**.
 
-1. في مربع المعلومات الأصفر، تظهر إشارة إلى أن مؤسستك لم تقم بتشغيل القدرة على معالجة المحتوى في ملفات Office عبر الإنترنت حيث تم تطبيق أوصاف الحساسية المشفرة والمخزنة في OneDrive وSharePoint.  حدد تشغيل الآن.  بمجرد القيام بذلك، يمكن أن يحدث تأخير لنشر الإعداد عبر النظام.
+1. يشير مربع المعلومات الأصفر إلى أن مؤسستك لم تقم بتشغيل القدرة على معالجة المحتوى في ملفات Office عبر الإنترنت حيث تم تطبيق أوصاف الحساسية المشفرة والمخزنة على OneDrive وSharePoint.  حدد تشغيل الآن.  بمجرد القيام بذلك، يمكن أن يحدث تأخير لنشر الإعداد عبر النظام.
 
 1. تحقق من تحديد علامة التبويب **الأوصاف** في أعلى الصفحة (تحتها خط).
 
