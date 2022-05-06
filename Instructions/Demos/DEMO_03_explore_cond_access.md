@@ -2,16 +2,17 @@
 Demo:
   title: الوصول المشروط لـ Azure Active Directory
   module: 'Module 2 Lesson 3: Describe the capabilities of Microsoft Identity and access management solutions: Explore the access management capabilities of Azure AD'
-ms.openlocfilehash: b3fd1d1f73c7f807c7a72b258762579bdf0184ac
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: 9c981817c195e981ea69dc6bba5f168848d6d084
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893721"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557356"
 ---
 # <a name="demo-azure-active-directory-conditional-access"></a>العرض التوضيحي: الوصول المشروط في Azure Active Directory
 
-### <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+
 في هذا العرض التوضيحي، ستتعرف على الخيارات المختلفة المتاحة لنهج الوصول المشروط.
 
 1. انتقل إلى علامة تبويب **Contoso - Microsoft Azure** المفتوحة في المستعرض. إذا كنتَ قد أغلقتَ علامة التبويب مسبقًا، فافتح صفحة في المستعرض وفي شريط العناوين، أدخل portal.azure.com وحدد Azure Active Directory. يجب أن تكون قد سجلت دخولك كمسؤول، في مدخل Azure، إذا لم تكن قد فعلت، قم بتسجيل الدخول مرة أخرى.
