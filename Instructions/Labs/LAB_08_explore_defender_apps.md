@@ -2,23 +2,26 @@
 lab:
   title: 'استكشاف Microsoft Defender for Cloud Apps '
   module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: aa360b3d9e604e384cc5b040ef747425af76e13b
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: cdd0953cafd267114577b53eb7470cd65a4c2bc5
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893682"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557560"
 ---
 # <a name="lab-explore-microsoft-defender-for-cloud-apps"></a>نشاط معملي: استكشاف Microsoft Defender for Cloud Apps
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
-في هذا النشاط المعملي، ستستكشف إمكانات Microsoft Defender for Cloud Apps.  وستستكشف المعلومات المتاحة على لوحة معلومات Cloud Discovery بالإضافة إلى القدرات المتاحة للتحقيق في النتائج والتحكم في التأثير على مؤسستك من خلال النهُج.  ملاحظة:  يجب أن يكون لدى المؤسسة ترخيص لاستخدام Microsoft Defender for Cloud Apps وهي خدمة اشتراك قائمة على المستخدم. 
+
+في هذا النشاط المعملي، ستستكشف إمكانات Microsoft Defender for Cloud Apps.  وستستكشف المعلومات المتاحة على لوحة معلومات Cloud Discovery بالإضافة إلى القدرات المتاحة للتحقيق في النتائج والتحكم في التأثير على مؤسستك من خلال النهُج.  ملاحظة:  يجب أن يكون لدى المؤسسة ترخيص لاستخدام Microsoft Defender for Cloud Apps وهي خدمة اشتراك قائمة على المستخدم.
 
 **الزمن المقدر**: من 15 إلى 20 دقيقة
 
-#### <a name="task-1-explore-cloud-discovery"></a>المهمة 1: استكشاف Cloud Discovery.
+### <a name="task-1"></a>المهمة 1
 
-1.  افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **admin.microsoft.com**.
+استكشاف Cloud Discovery.
+
+1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **admin.microsoft.com**.
 
 1. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
     1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
@@ -50,7 +53,9 @@ ms.locfileid: "137893682"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
-#### <a name="task-2-explore-ways-in-which-you-can-investigate-the-recorded-activities"></a>المهمة 2: استكشف الطرق التي يمكنك من خلالها التحقق من الأنشطة المسجلة.
+### <a name="task-2"></a>المهمة 2
+
+استكشف الطرق التي يمكنك من خلالها التحقق من الأنشطة المسجلة.
 
 1. من لوحة التنقل اليسرى، ضمن التحقيق، حدد **سجل النشاط**.  يمكنك هنا رؤية جميع الأنشطة من التطبيقات المتصلة.   نظرًا لأن Office 365 متصل لديك بالفعل، يجب أن تكون قادرًا على رؤية بعض البيانات. بعد توصيل Cloud App Security بتطبيق ما باستخدام موصل التطبيقات، يقوم Cloud App Security بفحص جميع الأنشطة التي حدثت - تختلف فترة الفحص بأثر رجعي لكل تطبيق - ثم يتم تحديثه باستمرار بأنشطة جديدة.  
 
@@ -66,14 +71,16 @@ ms.locfileid: "137893682"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
+### <a name="task-3"></a>المهمة 3
 
-#### <a name="task-3-in-this-task-you-will-explore-the-policies-and-alerts-pages-in-microsoft-defender-for-cloud-apps"></a>المهمة 3: في هذه المهمة، ستستكشف صفحات النُهج والتنبيهات في Microsoft Defender for Cloud Apps.
+في هذه المهمة، ستستكشف صفحات النُهج والتنبيهات في Microsoft Defender for Cloud Apps.
 
-1. من لوحة التنقل اليسرى، حدد مفتاح السهم لأسفل بجوار المكان الذي يظهر فيه **Control** ثم حدد **Policies**.  توفر النُهج المدرجة معلومات حول عدد التنبيهات التي تم إنشاؤها بواسطة النهج، والخطورة، وما إلى ذلك. يوفر تحديد أي عنصر سطر، مثل **Risky sign-in**، خيارًا لتحرير النهج. حدد **Cancel** من أسفل الصفحة. 
+1. من لوحة التنقل اليسرى، حدد مفتاح السهم لأسفل بجوار المكان الذي يظهر فيه **Control** ثم حدد **Policies**.  توفر النُهج المدرجة معلومات حول عدد التنبيهات التي تم إنشاؤها بواسطة النهج، والخطورة، وما إلى ذلك. يوفر تحديد أي عنصر سطر، مثل **Risky sign-in**، خيارًا لتحرير النهج. حدد **Cancel** من أسفل الصفحة.
 
 1. من لوحة التنقل اليسرى، حدد **التنبيهات**.  إذا كان لديك أي تنبيهات مدرجة، فحدد عنصرًا من قائمة التنبيهات. راجع المعلومات المقدمة.  من الجانب العلوي الأيمن من النافذة، حدد **إغلاق التنبيه** لعرض خيارات إغلاق التنبيه.  
 
 1. أغلق نافذة المتصفح.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
+
 في هذا النشاط المعملي، استكشفت إمكانات Microsoft Defender for Cloud Apps.  واستعرضت المعلومات المتاحة على لوحة معلومات Cloud Discovery بالإضافة إلى القدرات المتاحة للتحقيق في النتائج والتحكم في التأثير على مؤسستك من خلال النهُج.

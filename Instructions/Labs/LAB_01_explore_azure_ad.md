@@ -2,12 +2,12 @@
 lab:
   title: استكشاف Azure Active Directory
   module: 'Module 2 Lesson 1: Describe the capabilities of Microsoft Identity and access management solutions: Explore the services and identity types of Azure AD'
-ms.openlocfilehash: 075b7123b5d7e17b7e30dfcacf9f90ef97a67f83
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: ca6ea1f2fc67ad1c09a108079eada6c8a9ebd89c
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893688"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557284"
 ---
 # <a name="lab-explore-azure-active-directory"></a>نشاط معملي: استكشاف Azure Active Directory
 
@@ -15,17 +15,17 @@ ms.locfileid: "137893688"
 
 في هذا النشاط المعملي، ستصل إلى Azure Active Directory.  بالإضافة إلى ذلك، ستقوم بإنشاء مستخدم وتكوين الإعدادات المختلفة، بما في ذلك إضافة التراخيص.  
 
-
-
 **الزمن المقدر**: من 10 إلى 15 دقيقة
 
-#### <a name="task-1--as-a-subscriber-to-microsoft-365-you-are-already-using-azure-ad--in-this-task-you-will-walk-through-accessing-azure-ad-through-the-microsoft-365-admin-portal-and-through-the-azure-portal"></a>المهمة 1:  باعتبارك مشتركًا في Microsoft 365، فأنت تستخدم Azure AD بالفعل.  في هذه المهمة، ستنتقل عبر الوصول إلى Azure AD من خلال مدخل مسؤولي Microsoft 365 وعبر مدخل Azure.
+### <a name="task-1"></a>المهمة 1
+
+باعتبارك مشتركًا في Microsoft 365، فأنت تستخدم Azure AD بالفعل.  في هذه المهمة، ستنتقل عبر الوصول إلى Azure AD من خلال مدخل مسؤولي Microsoft 365 وعبر مدخل Azure.
 
 1. افتح مستعرض Microsoft Edge.
 
 2. في شريط العناوين، أدخل **admin.microsoft.com** للوصول إلى مركز مسؤولي Microsoft 365.
 
-3. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك. 
+3. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
     1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
     1. أدخل كلمة مرور المسؤول التي يجب أن يوفرها موفر استضافة النشاط المعملي خاصتك. حدد **"Sign in"**.
     1. عند مطالبتك بالبقاء مسجلاً للدخول، حدد **نعم**.
@@ -44,8 +44,9 @@ ms.locfileid: "137893688"
 
 10. اترك صفحة المستعرض هذه مفتوحة للمهمة التالية.
 
+### <a name="task-2"></a>المهمة 2
 
-#### <a name="task-2--in-this-task-youll-learn-how-to-create-a-new-user-in-azure-active-directory-and-explore-some-of-services-that-can-be-managed-at-the-user-level"></a>المهمة 2:  في هذه المهمة، ستتعلم كيفية إنشاء مستخدم جديد في Azure Active Directory واستكشاف بعض الخدمات التي يمكن إدارتها على مستوى المستخدم.
+في هذه المهمة، ستتعلم كيفية إنشاء مستخدم جديد في Azure Active Directory واستكشاف بعض الخدمات التي يمكن إدارتها على مستوى المستخدم.
 
 1. انتقل إلى علامة تبويب Contoso - Microsoft Azure المفتوحة في المستعرض. إذا كنتَ قد أغلقتَ علامة التبويب مسبقًا، فافتح صفحة في المستعرض وفي شريط العناوين، أدخل portal.azure.com وحدد Azure Active Directory.  يجب أن تكون قد سجلت دخولك كمسؤول، في مدخل Azure، إذا لم تكن قد فعلت، قم بتسجيل الدخول مرة أخرى.
 
@@ -109,7 +110,9 @@ ms.locfileid: "137893688"
 
 20. قم بتسجيل الخروج من جميع علامات تبويب المستعرض بالنقر فوق رمز المستخدم بجوار عنوان البريد الإلكتروني في الزاوية العلوية اليمنى من الشاشة. ثم أغلق جميع نوافذ المستعرض.
 
-#### <a name="task-3--in-this-task-you-will-sign-in-as-sara-perez-for-the-first-time"></a>المهمة 3:  في هذه المهمة، ستقوم بتسجيل الدخول باسم Sara Perez، لأول مرة.
+### <a name="task-3"></a>المهمة 3
+
+في هذه المهمة، ستقوم بتسجيل الدخول باسم Sara Perez، لأول مرة.
 
 1. افتح مستعرض Microsoft Edge.
 
@@ -127,9 +130,6 @@ ms.locfileid: "137893688"
 
 8. **قم بتسجيل الخروج** من جميع علامات تبويب المستعرض بالنقر فوق رمز المستخدم بجوار عنوان البريد الإلكتروني في الزاوية العلوية اليمنى من الشاشة. ثم أغلق جميع نوافذ المستعرض.
 
+### <a name="review"></a>مراجعة
 
-
-#### <a name="review"></a>مراجعة
 في هذا النشاط المعملي، بدأت استكشافك الأولي لدليل Azure AD. نظرًا لأن المشتركين في Microsoft 365 يستخدمون Azure AD تلقائيًا، فقد وجدت أنك تصل إلى ميزات وخدمات Azure AD من خلال مدخل مسؤولي Microsoft 365 أو من خلال مدخل Azure.  أيًا كان النهج الذي تفضله للوصول إلى نفس المكان.  استعرضت أيضًا عملية إنشاء مستخدم جديد والإعدادات المختلفة التي يمكن تكوينها، بما يشمل المجموعات التي يمكن تعيين المستخدم لها، وتوافر الأدوار، وتعيين تراخيص المستخدم.
-
-

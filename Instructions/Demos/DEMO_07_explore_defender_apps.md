@@ -2,19 +2,20 @@
 Demo:
   title: 'تطبيقات Microsoft Defender للسحابة '
   module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: f653c14f8383ef3c5823d9c4626e7d6c3a693df8
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: 5ab8489c487f8eb80354f18cf83b896f8ba4793f
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137893706"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557164"
 ---
 # <a name="demo-microsoft-defender-for-cloud-apps"></a>العرض التوضيحي: Microsoft Defender لتطبيقات السحابة
 
-### <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+
 في هذا العرض التوضيحي، ستعرض إمكانيات Microsoft Defender for Cloud Apps.  ستوجه المتعلم من خلال المعلومات المتاحة على لوحة معلومات Cloud Discovery بالإضافة إلى القدرات المتاحة للتحقيق في النتائج والتحكم في التأثير على مؤسستك من خلال النهُج.  ملاحظة:  يجب أن يكون لدى المؤسسة ترخيص لاستخدام Microsoft Defender for Cloud Apps وهي خدمة اشتراك قائمة على المستخدم.  
 
-#### <a name="demo-part-1-explore-cloud-discovery"></a>العرض التوضيحي - الجزء 1: استكشاف Cloud Discovery.
+### <a name="demo-part-1-explore-cloud-discovery"></a>العرض التوضيحي - الجزء 1: استكشاف Cloud Discovery
 
 1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **admin.microsoft.com**.  يجب أن تكون قد سجلت الدخول بالفعل كمسؤول.  إذا لم تكن قد فعلت، قم بتسجيل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
 
@@ -54,7 +55,9 @@ ms.locfileid: "137893706"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
-#### <a name="demo-part-2-explore-ways-in-which-you-can-investigate-the-recorded-activities"></a>العرض التوضيحي الجزء 2: استكشف الطرق التي يمكنك من خلالها التحقق من الأنشطة المسجلة.
+### <a name="demo-part-2"></a>العرض التوضيحي - الجزء 2
+
+استكشف الطرق التي يمكنك من خلالها التحقق من الأنشطة المسجلة.
 
 1. من لوحة التنقل اليسرى، ضمن **التحقيق**، حدد **سجل النشاط**.  يمكنك هنا رؤية جميع الأنشطة من التطبيقات المتصلة.   نظرًا لأن Office 365 متصل لديك بالفعل، يجب أن تكون قادرًا على رؤية بعض البيانات. بعد توصيل Cloud App Security بتطبيق ما باستخدام موصل التطبيقات، يقوم Cloud App Security بفحص جميع الأنشطة التي حدثت - تختلف فترة الفحص بأثر رجعي لكل تطبيق - ثم يتم تحديثه باستمرار بأنشطة جديدة.  
 
@@ -66,8 +69,9 @@ ms.locfileid: "137893706"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
+### <a name="demo-part-3"></a>العرض التوضيحي - الجزء 3
 
-#### <a name="demo-part-3-in-this-task-you-will-explore-the-policies-and-alerts-pages-in-microsoft-defender-for-cloud-apps"></a>العرض التوضيحي الجزء 3: في هذه المهمة، ستستكشف صفحات النُهج والتنبيهات في Microsoft Defender for Cloud Apps.
+في هذه المهمة، ستستكشف صفحات النُهج والتنبيهات في Microsoft Defender for Cloud Apps
 
 1. من لوحة التنقل اليسرى، أسفل المكان الذي تظهر فيه عبارة "عنصر التحكم"، حدد **النهُج**.  توفر النُهج المدرجة معلومات حول عدد التنبيهات التي تم إنشاؤها بواسطة النهج، والخطورة، وما إلى ذلك. سيوفر تحديد أي عنصر سطر معلومات أكثر تفصيلاً حول النهج. حدد عنصرًا من القائمة، أي **تسجيل الدخول المحفوف بالمخاطر**.  
 
@@ -75,5 +79,6 @@ ms.locfileid: "137893706"
 
 1. أغلق نافذة المتصفح.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
+
 في هذا العرض التوضيحي، قمت بعرض إمكانيات Microsoft Defender for Cloud Apps.  واستعرضت المعلومات المتاحة على لوحة معلومات Cloud Discovery بالإضافة إلى القدرات المتاحة للتحقيق في النتائج والتحكم في التأثير على مؤسستك من خلال النهُج.

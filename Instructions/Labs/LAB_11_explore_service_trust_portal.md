@@ -2,12 +2,12 @@
 lab:
   title: استكشاف Service Trust Portal
   module: 'Module 4 Lesson 1: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft'
-ms.openlocfilehash: e26a0d4eaaaabba7027215db53c3ebd0ccb0ad6c
-ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
+ms.openlocfilehash: ed176063b55689d34d9b764dce2ca0a8b33a50ad
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "142614188"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557200"
 ---
 # <a name="lab-explore-the-service-trust-portal"></a>نشاط معملي: استكشاف Service Trust Portal
 
@@ -17,12 +17,13 @@ ms.locfileid: "142614188"
 
 **الزمن المقدر**: من 10 إلى 15 دقيقة
 
+### <a name="task-1"></a>المهمة 1
 
-#### <a name="task-1-in-this-task-you-will-explore-the-service-trust-portal-and-the-different-types-of-content-available-you-will-learn-how-to-access-reports-and-how-to-save-reports-to-your-library"></a>المهمة 1: في هذه المهمة، سوف تستكشف Service Trust Portal وأنواع المحتوى المختلفة المتاحة، وسوف تتعلم كيفية الوصول إلى التقارير، وكيفية حفظ التقارير في مكتبتك. 
+في هذه المهمة، سوف تستكشف Service Trust Portal وأنواع المحتوى المختلفة المتاحة، وسوف تتعلم كيفية الوصول إلى التقارير، وكيفية حفظ التقارير في مكتبتك.
 
 1. افتح مستعرض Microsoft Edge.
 
-1. في شريط العناوين أدخل **https://aka.ms/STP** .  سينقلك هذا إلى الصفحة المنتقل إليها لمدخل Service Trust Portal. يحتوي Service Trust Portal على تفاصيل بشأن تنفيذ Microsoft لعناصر التحكم والعمليات التي تحمي خدماتنا السحابية وبيانات العملاء الواردة فيها. 
+1. في شريط العناوين، أدخِل **aka.ms/STP**.  سينقلك هذا إلى الصفحة المنتقل إليها لمدخل Service Trust Portal. يحتوي Service Trust Portal على تفاصيل بشأن تنفيذ Microsoft لعناصر التحكم والعمليات التي تحمي خدماتنا السحابية وبيانات العملاء الواردة فيها.
 
 1. للوصول إلى بعض الموارد الموجودة على Service Trust Portal، يجب عليك تسجيل الدخول كمستخدم مصادق باستخدام حساب خدمات سحابة Microsoft ومراجعة وقبول اتفاقية عدم الإفصاح لمواد التوافق من Microsoft. في الزاوية اليمنى العلوية من الصفحة المقصودة لـ Service Trust Portal، سترى خيار تسجيل الدخول.  **سجل الدخول** باستخدام بيانات اعتماد المسؤول، وإذا تمت مطالبتك، حدد **Agree** على قبول اتفاقية عدم الإفصاح عن المعلومات الخاصة بـ Microsoft لمواد التوافق.
 
@@ -46,7 +47,9 @@ ms.locfileid: "142614188"
 
 1. يمكنك الاختيار من بين فئات مختلفة.  بما في ذلك تقارير تقييم GRC، وأدلة التوافق، والمزيد.  كما هو الحال مع المهمة السابقة، يمكنك تصفية قائمة المستندات المعروضة ويمكنك تحديد المستندات لتنزيل المستندات أو حفظها في مكتبتك.
 
-#### <a name="task-2-in-this-task-you-will-visit-the-trust-center-and-navigate-to-microsofts-six-key-privacy-principles"></a>المهمة 2: في هذه المهمة، ستستكشف "مركز التوثيق" وتنتقل إلى مبادئ الخصوصية الستة الأساسية لشركة Microsoft.
+### <a name="task-2"></a>المهمة 2
+
+في هذه المهمة، ستستكشف "مركز التوثيق" وتنتقل إلى مبادئ الخصوصية الستة الأساسية لشركة Microsoft.
 
 1. من أعلى صفحة Service Trust Portal، حدد **مركز التوثيق** ثم اختر **الصفحة الرئيسية**. يفتح هذا علامة تبويب مستعرض جديدة تنقلك إلى مركز التوثيق حيث تجد المزيد من المعلومات حول الأمان والتوافق والخصوصية في Microsoft Cloud.
 
@@ -60,6 +63,6 @@ ms.locfileid: "142614188"
 
 1. أغلق نوافذ المستعرض لديك للخروج من Service Trust Portal ومركز التوثيق.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
 
 في هذا النشاط المعملي، قمت باستكشاف بعض الخيارات المتاحة ضمن Service Trust Portal، وكيفية الوصول إلى تقارير، وكيفية استخدام مكتبتي لحفظ المستندات للمراجعة المستقبلية.  وبالإضافة إلى ذلك، قمت بزيارة مركز التوثيق للوصول إلى مبادئ خصوصية Microsoft ومراجعتها.

@@ -2,21 +2,24 @@
 lab:
   title: استكشاف Microsoft Sentinel
   module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 28c73a721cd595b41e63a235498b00552acdac82
-ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
+ms.openlocfilehash: 857d7f5ad5e0a9136d298c32cd47063a83e454e7
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "142614332"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557152"
 ---
-# <a name="lab-explore-microsoft-sentinel"></a>نشاط معملي: استكشاف Microsoft Sentinel 
+# <a name="lab-explore-microsoft-sentinel"></a>نشاط معملي: استكشاف Microsoft Sentinel
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
+
 في هذا التمرين المعملي، ستتعرف على عملية إنشاء مثيل Microsoft Sentinel.  ستقوم أيضاً بإعداد الأذونات لضمان الوصول إلى الموارد التي سيتم توزيعها لدعم Microsoft Sentinel.  بمجرد الانتهاء من هذا الإعداد الأساسي، سيتم عرض خطوات توصيل Microsoft Sentinel بمصادر البيانات لديك وإعداد مصنف وتقديم جولة موجزة حول بعض الإمكانات الرئيسية المتوفرة في Microsoft Sentinel.  
 
 **الزمن المقدر**: 45-60 دقيقة
 
-#### <a name="task-1--create-an-microsoft-sentinel-instance"></a>المهمة 1:  إنشاء مثيل Microsoft Sentinel
+### <a name="task-1"></a>المهمة 1
+
+إنشاء مثيل Microsoft Sentinel
 
 1. افتح علامة تبويب **الصفحة الرئيسية - Microsoft Azure** في المستعرض.  إذا كنتَ قد أغلقتَ علامة التبويب مسبقًا، فافتح صفحة في المستعرض وفي شريط العناوين، أدخل portal.azure.com وسجِّل الدخول مرة أخرى.
 
@@ -43,11 +46,13 @@ ms.locfileid: "142614332"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
-#### <a name="task-2--with-the-microsoft-sentinel-instance-created-you-will-want-to-make-sure-that-you-have-the-necessary-access-to-the-resources-that-get-deployed-to-support-microsoft-sentinel"></a>المهمة 2:  مع إنشاء مثيل Microsoft Sentinel، ستحتاج إلى التأكد من حصولك على حق الوصول الضروري إلى الموارد التي يتم توزيعها لدعم Microsoft Sentinel.  
+### <a name="task-2"></a>المهمة 2
+
+مع إنشاء مثيل Microsoft Sentinel، ستحتاج إلى التأكد من حصولك على حق الوصول الضروري إلى الموارد التي يتم توزيعها لدعم Microsoft Sentinel.
 
 1. في مربع البحث، في الشريط الأزرق أعلى الصفحة بجوار المكان الذي تظهر فيه كلمة Microsoft Azure، أدخِل **مجموعة الموارد**، ثم حدد **مجموعات الموارد** من نتائج البحث. سيضمن تعيين الدور على مستوى مجموعة الموارد تطبيق الدور على جميع الموارد التي تم نشرها لدعم Microsoft Sentinel.
 
-1. من صفحة مجموعات الموارد، حدد مجموعة الموارد التي قمت بإنشائها باستخدام Microsoft Sentinel، **SC900-Sentinel-RG**. 
+1. من صفحة مجموعات الموارد، حدد مجموعة الموارد التي قمت بإنشائها باستخدام Microsoft Sentinel، **SC900-Sentinel-RG**.
 
 1. من صفحة SC900-Sentinel-RG، حدد **التحكم في الوصول (IAM)** من جزء التنقّل الأيسر.
 
@@ -55,14 +60,16 @@ ms.locfileid: "142614332"
 
     1. من صفحة التحكم في الوصول، حدد **+ إضافة**، ثم حدد **إضافة تعيين دور**.
 
-    1. تفتح نافذة إضافة تعيين دور.  في مربع البحث، أدخل **Microsoft Sentinel** لعرض الأدوار الأربعة المرتبطة بـ Microsoft Sentinel. 
+    1. تفتح نافذة إضافة تعيين دور.  في مربع البحث، أدخل **Microsoft Sentinel** لعرض الأدوار الأربعة المرتبطة بـ Microsoft Sentinel.
     1. من أي من الأدوار المدرجة، حدد **view** لعرض تفاصيل هذا الدور.  كأفضل ممارسة، ينبغي لك تعيين الامتياز الأقل طلبًا بالنسبة للوظيفة.  
 
     1. أغلق النافذة عن طريق تحديد **X** في الزاوية العلوية اليمنى من النافذة.
 
 1. من صفحة access control، أغلق النافذة بتحديد **X** في الزاوية العلوية اليمنى من النافذة.
 
-#### <a name="task-3--in-this-task-you-will-walk-through-the-process-of-connecting-microsoft-sentinel-to-your-data-source-to-begin-to-collect-data"></a>المهمة 3:  في هذه المهمة، ستتعرف على عملية توصيل Microsoft Sentinel بمصدر بياناتك لتبدأ في جمع البيانات.
+### <a name="task-3"></a>المهمة 3
+
+في هذه المهمة، ستتعرف على عملية توصيل Microsoft Sentinel بمصدر بياناتك لتبدأ في جمع البيانات.
 
 1. في مربع البحث، في الشريط الأزرق بأعلى الصفحة بجوار مكان ظهور Microsoft Azure، أدخل **Microsoft Sentinel** ثم حدد **Microsoft Sentinel** من نتائج البحث.
 
@@ -84,7 +91,9 @@ ms.locfileid: "142614332"
 
 1. اترك هذه الصفحة مفتوحة، لأننا ستستخدمها في المهمة التالية.
 
-#### <a name="task-4--in-this-task-you-will-walk-through-the-process-of-setting-up-a-workbook-for-office-365-to-visualize-and-monitor-your-data"></a>المهمة 4:  في هذه المهمة، ستشاهد عملية إعداد مصنف Office 365، لتصور بياناتك ومراقبتها.
+### <a name="task-4"></a>المهمة 4
+
+في هذه المهمة، ستشاهد عملية إعداد مصنف Office 365، لتصور بياناتك ومراقبتها.
 
 1. من جزء التنقّل الأيسر، حدد **المصنفات**.
 
@@ -96,7 +105,9 @@ ms.locfileid: "142614332"
 
 1. من الزاوية العلوية اليمنى من صفحة "المصنفات"، في الأعلى حيث تظهر عبارة "مصنفات"، حدد **Microsoft Sentinel**. يعيدك هذا إلى صفحة Overview.
 
-#### <a name="task-5--in-this-task-you-will-walk-through-some-of-the-options-available-in-sentinel"></a>المهمة 5:  في هذه المهمة، سوف تتجول في بعض الخيارات المتاحة في Sentinel.
+### <a name="task-5"></a>المهمة 5
+
+في هذه المهمة، سوف تتجول في بعض الخيارات المتاحة في Sentinel.
 
 1. من لوحة التنقل إلى اليسار، حدد **Hunting**.  من علامة التبويب **queries**، المحددة (تحتها خط)، حدد أي استعلام من القائمة.  بمجرد تحديد استعلام، لاحظ المعلومات التي تم توفيرها حول هذا الاستعلام، بما في ذلك التعليمات البرمجية للاستعلام، بالإضافة إلى خيار تشغيل الاستعلام وعرض النتائج.  لا تحدد أي شيء.
 
@@ -114,7 +125,9 @@ ms.locfileid: "142614332"
 
 1. من الزاوية العلوية إلى اليسار من النافذة، أسفل الشريط الأزرق مباشرة، حدد **Home** للعودة إلى الصفحة الرئيسية لمدخل Azure.
 
-#### <a name="task-6-microsoft-sentinel-is-billed-based-on-the-volume-of-data-ingested-for-analysis-in-microsoft-sentinel-although-the-amount-of-data-ingested-as-a-result-of-this-lab-is-minimal-it-is-recommended-that-you-delete-the-microsoft-sentinel-resource-group-when-you-are-done-exploring-the-capabilities-of-microsoft-sentinel"></a>المهمة 6: تتم المحاسبة على Microsoft Sentinel بناءً على حجم البيانات التي يتم استيعابها للتحليل في Microsoft Sentinel. بالرغم من أن كمية البيانات التي يتم استيعابها نتيجة لهذا التمرين المعملي ضئيلة، فمن المستحسن حذف مجموعة موارد Microsoft Sentinel عند الانتهاء من استكشاف إمكانات Microsoft Sentinel.
+### <a name="task-6"></a>المهمة 6
+
+تتم المحاسبة على Microsoft Sentinel بناءً على حجم البيانات التي يتم استيعابها للتحليل في Microsoft Sentinel. بالرغم من أن كمية البيانات التي يتم استيعابها نتيجة لهذا التمرين المعملي ضئيلة، فمن المستحسن حذف مجموعة موارد Microsoft Sentinel عند الانتهاء من استكشاف إمكانات Microsoft Sentinel.
 
 1. من صفحة Microsoft Sentinel، في الزاوية العلوية اليمنى من الصفحة، وفوق مكان وجود Microsoft Sentinel، حدد **All Services**.
 
@@ -124,8 +137,8 @@ ms.locfileid: "142614332"
 
 4. من أعلى منتصف الصفحة، حدد **حذف مجموعة الموارد**.  راجع التحذير.  أدخل اسم مجموعة الموارد، **SC900-ResourceGroup**، ثم حدد **حذف** من أسفل الصفحة.  سيستغرق حذف مجموعة الموارد عدة دقائق.
 
-5. بمجرد التحقق من حذف مجموعة الموارد، أغلق صفحة المستعرض. 
+5. بمجرد التحقق من حذف مجموعة الموارد، أغلق صفحة المستعرض.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
 
 في هذا العرض التوضيحي، استعرضت خطوات توصيل Microsoft Sentinel بمصادر البيانات، وقمت بإعداد مصنف، واستعرضت العديد من الخيارات المتوفرة في Microsoft Sentinel.

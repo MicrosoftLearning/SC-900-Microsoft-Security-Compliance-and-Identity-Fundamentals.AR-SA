@@ -2,19 +2,22 @@
 Demo:
   title: نهج Azure
   module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 502bc783d6de1a8c4454df90550aac24d0c16d22
-ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
+ms.openlocfilehash: d336b34711cbfd458d25cf7692bea27ad34f86ab
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "142614176"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557128"
 ---
 # <a name="demo-azure-policy"></a>العرض التوضيحي: نهج Azure
 
-### <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
+
 في هذا العرض التوضيحي، ستتعرف على عملية إعداد نهج Azure وتأثير هذا النهج.
 
-#### <a name="demo-part-1-create-a-policy-to-require-a-tag-on-a-resource-group-shows-steps-to-create-a-policy-from-a-template"></a>العرض التوضيحي - الجزء 1: إنشاء نهج لطلب علامة على مجموعة موارد (يوضح خطوات إنشاء نهج من نموذج)
+### <a name="demo-part-1"></a>العرض التوضيحي - الجزء 1
+
+إنشاء نهج لطلب علامة على مجموعة موارد (يوضح خطوات إنشاء نهج من نموذج)
 
 1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.microsoft.com**.  يجب أن تكون قد سجلت الدخول بالفعل، إذا لم تقم بتسجيل الدخول، فقم بذلك باستخدام بيانات اعتماد المسؤول خاصتك.
 
@@ -46,7 +49,9 @@ ms.locfileid: "142614176"
 
 1. أنت الآن في صفحة خدمات Azure الرئيسية.  احتفظ بهذه الصفحة مفتوحة، ستحتاجها للمهمة التالية.
 
-#### <a name="demo-part-2--show-the-impact-of-the-policy-by-creating-a-resource-group-without-a-tag-then-fix-it-to-have-a-tag"></a>العرض التوضيحي الجزء 2:  أظهر تأثير النهج من خلال إنشاء مجموعة موارد بدون علامة، ثم أصلِحها للحصول على علامة.
+### <a name="demo-part-2"></a>العرض التوضيحي - الجزء 2
+
+أظهر تأثير النهج من خلال إنشاء مجموعة موارد بدون علامة، ثم أصلِحها للحصول على علامة.
 
 1. من أعلى الصفحة، أسفل المكان الذي تظهر فيه "خدمات Azure"، حدد **مجموعات الموارد**. إذا كنت لا ترى الخيار مدرجًا، فأدخل مجموعات الموارد في شريط البحث وحددها من هناك.
 
@@ -74,6 +79,6 @@ ms.locfileid: "142614176"
 
 1. سترى قائمة بمجموعة الموارد.  نظرًا لأنه تم توفير العلامة في مجموعة الموارد، فقد تم استيفاء الشرط المضمّن كجزء من نهج Azure.  مجموعة الموارد متوافقة مع النهج.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
 
 في هذا العرض التوضيحي، تعرفت على عملية إعداد نهج Azure وتأثير هذا النهج.
