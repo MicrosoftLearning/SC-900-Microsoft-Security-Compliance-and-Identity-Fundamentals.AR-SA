@@ -2,21 +2,24 @@
 lab:
   title: استكشاف إدارة الوصول في Azure AD باستخدام الوصول المشروط
   module: 'Module 2 Lesson 3: Describe the capabilities of Microsoft Identity and access management solutions: Explore the access management capabilities of Azure AD'
-ms.openlocfilehash: 23b0cfcc4c26a2f8561ae1793a176e94e064f627
-ms.sourcegitcommit: 59ed885dd424cb6d505bbe0cc0ab2adf52e03aef
+ms.openlocfilehash: 3fa6f805883950e85e28fc591c14664db3083bc4
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/07/2022
-ms.locfileid: "141489252"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557271"
 ---
 # <a name="lab-explore-access-management-in-azure-ad-with-conditional"></a>نشاط معملي: استكشاف إدارة الوصول في Azure AD مع الوصول المشروط
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
+
 في هذا التمرين المعملي، سوف تستكشف الوصول المشروط بالمصادقة متعددة العوامل (MFA)، من منظور المسؤول والمستخدم.  بصفتك المسؤول، ستقوم بإنشاء نهج يتطلب من المستخدم المرور بمصادقة متعددة العوامل عند الوصول إلى تطبيق Microsoft Azure Management المستند إلى السحابة.  من منظور المستخدم، سترى تأثير نهج الوصول المشروط، بما في ذلك عملية التسجيل في MFA.
 
 **الزمن المقدر**: من 10 إلى 15 دقيقة
 
-#### <a name="task-1-in-this-task-you-as-the-admin-will-reset-the-password-for-the-user-debra-berger--this-step-is-needed-so-you-can-initially-sign-in-as-the-user-in-subsequent-tasks"></a>المهمة 1: في هذه المهمة، ستقوم -بصفتك المسؤول- بإعادة تعيين كلمة المرور للمستخدم Debra Berger.  هذه الخطوة ضرورية حتى تتمكن من تسجيل الدخول في البداية باعتبارك المستخدم في المهام اللاحقة.
+### <a name="task-1"></a>المهمة 1
+
+في هذه المهمة، ستقوم -بصفتك المسؤول- بإعادة تعيين كلمة المرور للمستخدم Debra Berger.  هذه الخطوة ضرورية حتى تتمكن من تسجيل الدخول في البداية باعتبارك المستخدم في المهام اللاحقة.
 
 1. افتح مستعرض Microsoft Edge.  في شريط العناوين، أدخل **portal.azure.com.**
 
@@ -41,8 +44,9 @@ ms.locfileid: "141489252"
 
 10. اترك هذه النافذة مفتوحة.
 
+### <a name="task-2"></a>المهمة 2
 
-#### <a name="task-2--in-this-task-you-will-go-through-the-process-of-creating-a-conditional-access-policy-in-azure-ad"></a>المهمة 2:  في هذه المهمة، ستخوض عملية إنشاء نهج وصول مشروط في Azure AD.
+في هذه المهمة، ستخوض عملية إنشاء نهج وصول مشروط في Azure AD.
 
 1. افتح علامة تبويب المستعرض المسماة Contoso - Microsoft Azure.   إذا كنت قد أغلقت علامة تبويب المستعرض مسبقًا، فافتح Microsoft Edge وفي شريط العناوين، أدخل portal.azure.com، وقم بتسجيل الدخول باستخدام بيانات اعتماد المسؤول، ثم حدد Azure Active Directory.  
 
@@ -60,7 +64,7 @@ ms.locfileid: "141489252"
 
 8. حدد خيار **تحديد المستخدمين والمجموعات** وحدد **المستخدمون والمجموعات**.  تفتح نافذة تحديد المستخدمين والمجموعات.  
 
-9. في شريط البحث، أدخل **Debra**.  حدد **Debra Berger** من أسفل شريط البحث، ثم اضغط على الزر **تحديد** في أسفل الصفحة.  ملاحظة، من الممارسات الشائعة تعيين النهج للمستخدمين في المجموعة.  من أجل ملاءمة الغرض مع هذا النشاط المعملي، سنقوم بتعيين النهج لمستخدم معين. 
+9. في شريط البحث، أدخل **Debra**.  حدد **Debra Berger** من أسفل شريط البحث، ثم اضغط على الزر **تحديد** في أسفل الصفحة.  ملاحظة، من الممارسات الشائعة تعيين النهج للمستخدمين في المجموعة.  من أجل ملاءمة الغرض مع هذا النشاط المعملي، سنقوم بتعيين النهج لمستخدم معين.
 
 10. ضمن التطبيقات أو الإجراءات السحابية، حدد **لم يتم تحديد أي تطبيقات أو إجراءات سحابية**.
 
@@ -80,9 +84,11 @@ ms.locfileid: "141489252"
 
 18. سجّل الخروج من Azure وأغلق نوافذ المستعرض.
 
-#### <a name="task-3-in-this-task-you-will-see-the-impact-of-the-conditional-access-policy-from-the-perspective-of-the-user-debra-berger-you-will-start-first-by-signing-in-to-an-application-that-is-not-included-in-the-conditional-access-policy--then-you-will-repeat-the-process-for-an-application-that-is-included-in-the-conditional-access-policy--recall-that-the-policy-requires-the-user-to-go-through-mfa-when-accessing-a-microsoft-azure-management-application--to-use-mfa-the-user-must-first-register-the-authentication-method-that-will-be-used-for-mfa-for-example-a-code-sent-to-a-mobile-device-or-an-authenticator-application"></a>المهمة 3: في هذه المهمة سترى تأثير نهج الوصول المشروط، من منظور المستخدم، Debra Berger. ستبدأ أولاً بتسجيل الدخول إلى تطبيق غير مضمن في نهج الوصول المشروط.  ثم ستكرر العملية لتطبيق مضمن في نهج الوصول المشروط.  وضح أن النهج يتطلب من المستخدم المرور عبر MFA عند الوصول إلى تطبيق Microsoft Azure Management.  لاستخدام MFA، يجب على المستخدم أولاً تسجيل طريقة المصادقة التي سيتم استخدامها لـ MFA، على سبيل المثال رمز يتم إرساله إلى جهاز محمول أو تطبيق مصدق.
+### <a name="task-3"></a>lهمة 3
 
-1. افتح مستعرض Microsoft Edge.  في شريط العناوين في المستعرض، أدخل **https://login.microsoftonline.com/** .
+في هذه المهمة سترى تأثير نهج الوصول المشروط، من منظور المستخدم، Debra Berger. ستبدأ أولاً بتسجيل الدخول إلى تطبيق غير مضمن في نهج الوصول المشروط.  ثم ستكرر العملية لتطبيق مضمن في نهج الوصول المشروط.  وضح أن النهج يتطلب من المستخدم المرور عبر MFA عند الوصول إلى تطبيق Microsoft Azure Management.  لاستخدام MFA، يجب على المستخدم أولاً تسجيل طريقة المصادقة التي سيتم استخدامها لـ MFA، على سبيل المثال رمز يتم إرساله إلى جهاز محمول أو تطبيق مصدق.
+
+1. افتح مستعرض Microsoft Edge.  في شريط عنوان المستعرض، أدخل **login.microsoftonline.com/** .
 
 1. تسجيل الدخول باسم Debra Burger،
     1. في نافذة تسجيل الدخول، أدخل **DebraB@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
@@ -92,7 +98,7 @@ ms.locfileid: "141489252"
 
 1. يجب أن تقوم بتسجيل الدخول بنجاح إلى حساب Microsoft 365 خاصتك.  MFA لم تكن مطلوبة لهذا التطبيق لأنه ليس جزءًا من النهج.
 
-1. ستحاول الآن تسجيل الدخول إلى تطبيق يفي بمعايير MFA.  افتح Microsoft Edge وفي شريط العناوين، أدخل https://portal.azure.com.
+1. ستحاول الآن تسجيل الدخول إلى تطبيق يفي بمعايير MFA.  افتح Microsoft Edge وفي شريط العناوين، أدخل  **https://portal.azure.com**.
 
 1. سترى نافذة تشير إلى "مطلوب مزيد من المعلومات".  حدد ⁧**⁩التالي⁧**⁩.  لاحظ أن هذا سيبدأ عملية تسجيل MFA، لأن هذه هي المرة الأولى التي تقوم فيها بالوصول إلى التطبيق السحابي الذي تم تحديده في نهج الوصول المشروط.  عملية التسجيل هذه مطلوبة مرة واحدة فقط.   أحد البدائل لجعل المستخدم يمر بعملية التسجيل هو أن يقوم المسؤول بتهيئة طريقة المصادقة لاستخدامها.
 
@@ -110,5 +116,6 @@ ms.locfileid: "141489252"
 
 1. قم بتسجيل الخروج من خلال تحديد أيقونة المستخدم بجوار عنوان البريد الإلكتروني في الزاوية العلوية اليمنى من الشاشة وتحديد تسجيل الخروج. ثم أغلق جميع نوافذ المستعرض.
 
-#### <a name="review"></a>مراجعة
+### <a name="review"></a>مراجعة
+
 مررت في هذا النشاط المعملي بعملية إعداد مهج وصول مشروط تتطلب من المستخدمين المرور عبر MFA عند الوصول إلى تطبيق Microsoft Azure Management السحابي.  بعد ذلك، بصفتك مستخدمًا، مررت بعملية التسجيل لـ MFA ورأيت تأثير نهج الوصول المشروط الذي يتطلب منك استخدام MFA عند الوصول إلى مدخل Azure.
