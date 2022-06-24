@@ -2,12 +2,12 @@
 lab:
   title: استكشاف Azure Policy
   module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 23e8f4f8417367a16cbd41496428918ca219fa40
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 0a2ead44f5dc74a7684b8d78ea34c85767f8af92
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557512"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542585"
 ---
 # <a name="lab-explore-azure-policy"></a>نشاط معملي: استكشاف Azure Policy
 
@@ -21,7 +21,7 @@ ms.locfileid: "144557512"
 
 استكشاف بإيجاز صفحة نهج Azure.
 
-1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.microsoft.com**.
+1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.azure.com.**
 
 1. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
     1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
