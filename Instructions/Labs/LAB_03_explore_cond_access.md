@@ -2,12 +2,12 @@
 lab:
   title: استكشاف إدارة الوصول في Azure AD باستخدام الوصول المشروط
   module: 'Module 2 Lesson 3: Describe the capabilities of Microsoft Identity and access management solutions: Explore the access management capabilities of Azure AD'
-ms.openlocfilehash: 3fa6f805883950e85e28fc591c14664db3083bc4
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c8e9f8eb6e0d3609adc7ed5ea7f4d18ebfa33c4b
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557271"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542597"
 ---
 # <a name="lab-explore-access-management-in-azure-ad-with-conditional"></a>نشاط معملي: استكشاف إدارة الوصول في Azure AD مع الوصول المشروط
 
@@ -28,7 +28,7 @@ ms.locfileid: "144557271"
     1. أدخل كلمة مرور المسؤول التي يجب أن يوفرها موفر استضافة النشاط المعملي خاصتك. حدد **"Sign in"**.
     1. عند مطالبتك بالبقاء مسجلاً للدخول، حدد **نعم**.
 
-3. حدد **"Azure Active Directory"**.  
+3. ِفي الزاوية العلوية اليمنى من الشاشة، بجوار المكان الذي تظهر فيه Microsoft Azure، حدد «إظهار رمز قائمة المدخل» (الخطوط الأفقية الثلاثة المشار إليها أيضًا برمز قطعة هامبرغر)، ثم من لوحة التنقل اليمنى، ضمن «المفضلة»، حدد Azure Active Directory. إذا لم يكن مدرجاً ضمن المفضلة، ثم في مربع البحث، أدخل Azure Active Directory، ثم من قائمة النتائج، حدد **Azure Active Directory**.
 
 4. من لوحة التنقل اليسرى، حدد **المستخدمون**.
 

@@ -2,12 +2,12 @@
 lab:
   title: استكشف إدارة المخاطر الداخلية في Microsoft Purview
   module: 'Module 4 Lesson 4: Describe the capabilities of Microsoft compliance solutions: Describe insider risk capabilities in Microsoft Purview'
-ms.openlocfilehash: 8bd1f517bfbc4f71fec1ab65dca93b7b95458832
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c4179f11d7f88f4fe2f85bad379470cacbe2ab8c
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557536"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542633"
 ---
 # <a name="lab-explore-insider-risk-management-in-microsoft-purview"></a>نشاط معملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview
 
@@ -35,7 +35,7 @@ ms.locfileid: "144557536"
 
 1. من لوحة التنقل اليسرى لمدخل التوافق في Microsoft Purview، حدد **أذونات**.
 
-1. من صفحة "الأذونات والأدوار"، ضمن مدخل التوافق، حدد **الأدوار**.
+1. من صفحة «الأذونات والأدوار»، ضمن المكان الذي تقول فيه، "عرض الأدوار المستخدمة لتنفيذ المهام الخاصة بالحل وإدارتها في مركز التوافق." حدد **الأدوار**.
 
 1. في شريط البحث، أدخل **Insider risk** ثم حدد أيقونة البحث (العدسة المكبرة).  لاحظ الأدوار العديدة التي تظهر.  كل من هذه الأدوار لها مستويات وصول مختلفة.  حدد **إدارة المخاطر الداخلية**.
 

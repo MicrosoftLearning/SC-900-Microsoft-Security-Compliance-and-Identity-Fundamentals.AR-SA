@@ -2,12 +2,12 @@
 Demo:
   title: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
   module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 7c0b3e5a3153e48ddb3a7e7cca991c9df6a89bdf
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 3ba29f7d6969a64d594f93c012304bb9e3237582
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557236"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542609"
 ---
 # <a name="demo-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>العرض التوضيحي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
 
@@ -69,7 +69,7 @@ ms.locfileid: "144557236"
 
 1. من قائمة القوالب المضمنة، حدد **ISO/IEC27001:2013**. من أعلى يمين الصفحة، حدد **+ إنشاء تقييم**.  لاحظ أن هناك خطوتين فقط لإنشاء تقييم من القالب على الجانب الأيسر من الشاشة.  حدد "إلغاء" من أسفل الصفحة.
 
-1. من لوحة التنقل اليسرى، حدد **الصفحة الرئيسية** للعودة إلى الصفحة الرئيسية لمدخل التوافق في Microsoft Purview.  احتفظ بصفحة المستعرض مفتوحة للعرض التوضيحي التالي.
+1. من لوحة التنقل اليسرى، حدد **الصفحة الرئيسية** للعودة إلى الصفحة الرئيسية لمدخل التوافق في Microsoft Purview.  احتفظ بصفحة المستعرض هذه مفتوحة للعرض التوضيحي التالي.
 
 ### <a name="review"></a>مراجعة
 
