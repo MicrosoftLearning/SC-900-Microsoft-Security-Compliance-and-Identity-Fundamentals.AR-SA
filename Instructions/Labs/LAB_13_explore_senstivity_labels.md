@@ -2,12 +2,12 @@
 lab:
   title: استكشاف أوصاف الحساسية في Microsoft Purview
   module: 'Module 4 Lesson 3: Describe the capabilities of Microsoft compliance solutions: Describe information protection and data lifecycle management of Microsoft Purview'
-ms.openlocfilehash: 3d69459ebcd4ffa34bd71997ea86a8aeae4d0774
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 65cf71c24e66e5c94fb27a1479693338a3cd7091
+ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557584"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146741837"
 ---
 # <a name="lab-explore-sensitivity-labels-in-microsoft-purview"></a>نشاط معملي: استكشاف أوصاف الحساسية في Microsoft Purview
 
@@ -88,7 +88,7 @@ ms.locfileid: "144557584"
 
 1. حدد **+مستند فارغ جديد**، ثم أدخل بعض النص في الصفحة.  في الشريط الأزرق في الجزء العلوي من الصفحة، حدد السهم لأسفل، بجوار المكان الذي تظهر فيه عبارة DocumentXX - محفوظ، وفي المربع اسم الملف أدخل، **Test-label**.
 
-1. من شريط القائمة العلوي، حدد **الحساسية**، إذا كنت لا ترى هذا الخيار على الفور، فقم بتحديث الصفحة. من القائمة المنسدلة، حدد **سرية - تمويل**.
+1. من شريط القائمة العلوي، حدد **الحساسية**، إذا كنت لا ترى هذا الخيار على الفور، فقم بتحديث الصفحة. من القائمة المنسدلة، حدد **سرية - تمويل**.  ملاحظة:  قد يستغرق ظهور خيار الحساسية ما يصل إلى 15 دقيقة.
 
 1. من شريط القائمة العلوي، حدد **عرض**، ثم حدد **طريقة عرض القراءة**.
 
@@ -112,7 +112,7 @@ ms.locfileid: "144557584"
 
 1. باستخدام مستعرض الويب في الجهاز الظاهري للاختبارات المعملية، قم بتسجيل الدخول إلى حساب البريد الإلكتروني الذي قمت بإرسال المستند إليه.  ملاحظة، قد يتم توجيه البريد الإلكتروني إلى مجلد البريد غير الهام خاصتك.  عندما تحاول فتح ملف Word المرفق، سترى إشعارًا بأنه ليس لديك إذن لفتح المستند.
 
-1. أغلق علامات تبويب المستعرض المفتوحة.
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

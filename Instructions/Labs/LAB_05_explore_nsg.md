@@ -2,12 +2,12 @@
 lab:
   title: استكشاف مجموعات أمان الشبكة (NSGs) في Azure
   module: 'Module 3 Lesson 1: Describe the capabilities of Microsoft security solutions: Describe basic security capabilities in Azure.'
-ms.openlocfilehash: 71472d6f2cbb946d75ff8e6bc2da2afa87af96aa
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 2d5add9ca1efd99cf7e5268a1125f97f20910a07
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557500"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146650083"
 ---
 # <a name="lab-explore-azure-network-security-groups-nsgs"></a>نشاط معملي: استكشاف مجموعات أمان الشبكة (NSGs) في Azure
 
@@ -151,9 +151,9 @@ ms.locfileid: "144557500"
 1. أغلق اتصال سطح المكتب البعيد، عن طريق تحديد **X** في أعلى منتصف الصفحة حيث يظهر عنوان IP.  تشير النوافذ المنبثقة إلى أنه سيتم فصل جلسة عملك البعيدة. حدد **موافق**.
 1. في هذه المهمة، نجحت في تكوين قاعدة صادر في NSG خاصتك، لحظر حركة الإنترنت الصادرة.
 
-### <a name="task-5"></a>المهمة 5
+### <a name="tear-down"></a>إنهاء
 
-**هام**: في هذه المهمة ستحذف مجموعة الموارد وجميع الموارد التي تحتوي عليها.   هذه خطوة مهمة لتجنب الرسوم الإضافية.
+الجهاز الظاهري هو مورد فوترة وعلى الرغم من أن تكلفة تشغيل الأجهزة الظاهرية في هذا العرض التوضيحي ضئيلة، فمن المستحسن حذف مجموعة الموارد التي تحتوي على الجهاز الظاهري والموارد المرتبطة به، عند الانتهاء من الدورة التدريبية.
 
 1. افتح علامة تبويب SC900-WinVM – Microsoft Azure في المستعرض.
 
@@ -163,6 +163,7 @@ ms.locfileid: "144557500"
 1. من أعلى منتصف صفحة LabsSC900، حدد **حذف مجموعة الموارد**.
 1. في النافذة التي تفتح، أدخل اسم مجموعة الموارد، **LabsSC900**، لتأكيد حذف مجموعة الموارد وجميع مواردها، ثم حدد **حذف** من أسفل الصفحة.
 1. قد يستغرق حذف جميع الموارد ومجموعة الموارد بضع دقائق.
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

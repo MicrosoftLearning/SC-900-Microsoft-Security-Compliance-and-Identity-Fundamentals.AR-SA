@@ -2,12 +2,12 @@
 lab:
   title: استكشف سير عمل eDiscovery (قياسي)
   module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft Purview'
-ms.openlocfilehash: da37016799bb1343013c1ace901137646c0c856b
-ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
+ms.openlocfilehash: 6fd36be7fb7844b59648f8b2470057eccad9b832
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "146542621"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146649963"
 ---
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>نشاط معملي: استكشف سير عمل eDiscovery (قياسي)
 
@@ -126,6 +126,8 @@ ms.locfileid: "146542621"
     1. في الحقل الثاني، حدد الموقع الذي تريد تخزين ملف التصدير فيه، ثم حدد **بدء**.  بمجرد اكتمال عملية التنزيل، حدد **إغلاق** وأغلِق علامة تبويب المستعرض.
     1. لقد عدت إلى نافذة "اختبار الاحتجاز - بحث المبيعات_تصدير".  حدد ⁧**⁩Close⁧**⁩.
     1. تحقق من موقع التنزيل للتحقق من اكتمال التنزيل بنجاح.
+
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

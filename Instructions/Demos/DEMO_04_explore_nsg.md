@@ -2,12 +2,12 @@
 Demo:
   title: مجموعات أمان الشبكة (NSGs) في Azure
   module: 'Module 3 Lesson 1: Describe the capabilities of Microsoft security solutions: Describe basic security capabilities in Azure.'
-ms.openlocfilehash: dc653f2a9e6ee450b5693ad7bfbfe2208d5a7ea3
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: a136022cd3458d513011b10c408827d33fbc8caa
+ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557521"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146741849"
 ---
 # <a name="demo-azure-network-security-groups-nsgs"></a>العرض التوضيحي: مجموعات أمان الشبكة (NSGs) في Azure
 
@@ -152,9 +152,9 @@ ms.locfileid: "144557521"
 
 1. ارجع إلى الصفحة الرئيسية لمدخل Azure، عن طريق تحديد **Microsoft Azure** على الشريط الأزرق أعلى الصفحة.
 
-### <a name="tear-down"></a>إنهاء
+### <a name="post-course-delivery-tear-down"></a>التخلص من بيانات ما بعد تقديم الدورة التدريبية
 
-**هام**: في هذه المهمة ستحذف مجموعة الموارد وجميع الموارد التي تحتوي عليها.   هذه خطوة مهمة لتجنب الرسوم الإضافية.
+الجهاز الظاهري هو مورد فوترة وعلى الرغم من أن تكلفة تشغيل الأجهزة الظاهرية في هذا العرض التوضيحي ضئيلة، فمن المستحسن حذف مجموعة الموارد التي تحتوي على الجهاز الظاهري والموارد المرتبطة به، عند الانتهاء من تسليم الدورة التدريبية.
 
 1. افتح علامة تبويب SC900-WinVM – Microsoft Azure في المستعرض.
 

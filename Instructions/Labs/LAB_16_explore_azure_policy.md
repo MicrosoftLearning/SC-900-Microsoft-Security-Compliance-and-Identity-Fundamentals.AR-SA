@@ -2,12 +2,12 @@
 lab:
   title: استكشاف Azure Policy
   module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 0a2ead44f5dc74a7684b8d78ea34c85767f8af92
-ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
+ms.openlocfilehash: f314612acb21c226e350ce9f6ab026cee2551378
+ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "146542585"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146741909"
 ---
 # <a name="lab-explore-azure-policy"></a>نشاط معملي: استكشاف Azure Policy
 
@@ -125,6 +125,8 @@ ms.locfileid: "146542585"
     1. أسفل المكان الذي تظهر فيه خدمات Azure، حدد نهج Azure.
     1. في منتصف الصفحة، سترى قائمة بتعيينات مبادرة/نهج Azure.  حدد علامات الحذف لتعيين النهج تتطلب علامة في مجموعات الموارد، ثم حدد حذف التعيين.
     1. سيُطلب منك تأكيد رغبتك في حذف التعيين.  حدد Yes.
+
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 
