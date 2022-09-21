@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشف إدارة المخاطر الداخلية في Microsoft Purview
-  module: 'Module 4 Lesson 4: Describe the capabilities of Microsoft compliance solutions: Describe insider risk capabilities in Microsoft Purview'
-ms.openlocfilehash: b284151be19a0f9add77ef4c015520c7e4a7f363
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 553860b67fc7cc2b181e874e4c57fb4bc972822b
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741873"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892695"
 ---
+<a name="---"></a><!--->
+---
+تمرين عملي: العنوان: "استكشاف إدارة المخاطر الداخلية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 4: وصف قدرات المخاطر الداخلية في Microsoft Purview؛ الوحدة 2: وصف إدارة المخاطر الداخلية'
+---
+--->
+
 # <a name="lab-explore-insider-risk-management-in-microsoft-purview"></a>نشاط معملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات المخاطرة الداخلية في Microsoft Purview
+- الوحدة: وصف إدارة المخاطر الداخلية
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف أوصاف الحساسية في Microsoft Purview
-  module: 'Module 4 Lesson 3: Describe the capabilities of Microsoft compliance solutions: Describe information protection and data lifecycle management of Microsoft Purview'
-ms.openlocfilehash: 65cf71c24e66e5c94fb27a1479693338a3cd7091
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 1bae467c426cba5deb30035c3679409b384637e0
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741837"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892639"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف مسميات الحساسية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview؛ الوحدة 4: وصف مسميات الحساسية'
+---
+--->
+
 # <a name="lab-explore-sensitivity-labels-in-microsoft-purview"></a>نشاط معملي: استكشاف أوصاف الحساسية في Microsoft Purview
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview
+- الوحدة النمطية: وصف تسميات الحساسية
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

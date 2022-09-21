@@ -1,15 +1,20 @@
 ---
-Pre-Demo Setup:
-  title: إعداد العرض التوضيحي
-ms.openlocfilehash: ecb20fc5819b9557f966c924bbb69a32a6b588e2
-ms.sourcegitcommit: 36aae92c28418fa89da73bd283833356bf87bff9
+ms.openlocfilehash: 153cab11947f866aea32e5d718f449c6b4d0f5b5
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "146458318"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892467"
 ---
+<a name="---"></a><!---
+---
+إعداد ما قبل العرض التجريبي: العنوان: 'إعداد العرض التوضيحي'
+---
+--->
+
 ## <a name="pre-demo-setup"></a>الإعداد السابق للعرض التوضيحي
-يتكون هذا الإعداد من مهمتين منفصلتين.  تنطبق المهمة الأولى، ويوصى بها فقط إذا كانت بيئة التمرين المعملي تتضمن استخدام Azure Pass. تركز المهمة الثانية على تمكين سجل تدقيق Microsoft، ويتم تطبيقه ويوصى به بغض النظر عما إذا كانت بيئتك تستخدم Azure Pass أم لا.
+
+يتكون هذا الإعداد من مهمتين منفصلتين.  يتم تطبيق المهمة الأولى ويوصى بها فقط إذا كانت البيئة التجريبية الخاصة بك تتضمن استخدام Azure pass. تركز المهمة الثانية على تمكين سجل تدقيق Microsoft، ويتم تطبيقه ويوصى به بغض النظر عما إذا كانت بيئتك تستخدم Azure Pass أم لا.
 
 ### <a name="setup-part-1---redeem-azure-pass"></a>الجزء 1 من الإعداد - استرداد Azure Pass
 

@@ -1,15 +1,22 @@
 ---
-lab:
-  title: استكشاف Service Trust Portal
-  module: 'Module 4 Lesson 1: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft'
-ms.openlocfilehash: e760110f587b385e4e16f6272443a35a65471774
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: 7171b8c2d05da29c64594c5b6437d3106e320cee
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146649939"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892683"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف مدخل Service Trust" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 1: وصف قدرات إدارة التوافق في Microsoft؛ الوحدة 2: استكشاف مدخل Service Trust”
+---
+--->
+
 # <a name="lab-explore-the-service-trust-portal"></a>نشاط معملي: استكشاف Service Trust Portal
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+مسار التعلم: وصف قدرات الوحدة النمطية للتوافق مع Microsoft: وصف قدرات إدارة التوافق في وحدة Microsoft: استكشاف Service Trust Portal
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

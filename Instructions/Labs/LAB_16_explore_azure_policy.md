@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف Azure Policy
-  module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: f314612acb21c226e350ce9f6ab026cee2551378
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 8e34065623722f1f249c4da363aa862e46e49b0b
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741909"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892143"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف نهج Azure" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 6: وصف قدرات إدارة الموارد في Azure؛ الوحدة 2: وصف نهج Azure'
+---
+--->
+
 # <a name="lab-explore-azure-policy"></a>نشاط معملي: استكشاف Azure Policy
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة الموارد في Azure
+- الوحدة: وصف سياسة Azure
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

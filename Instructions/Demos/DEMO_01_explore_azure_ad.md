@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: إعدادات مستخدم Azure Active Directory
-  module: 'Module 2 Lesson 1: Describe the capabilities of Microsoft Identity and access management solutions: Explore the services and identity types of Azure AD'
-ms.openlocfilehash: 061dfa556f7e4e00d63c938b52097e0b641fed4f
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: c230a54bb7d4d9cd876aacd4e04185ce674a22db
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741885"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892179"
 ---
-# <a name="demo-azure-active-directory-user-settings"></a>العرض التوضيحي: إعدادات مستخدم Azure Active Directory
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: مسار التعلم/الوحدة النمطية/الوحدة 'استكشاف إعدادات مستخدم Azure AD': 'مسار التعلم: وصف إمكانات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 1: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD؛ الوحدة النمطية 4: وصف أنواع هوية Azure AD'
+---
+--->
+
+# <a name="demo-azure-ad-user-settings"></a>العرض التوضيحي: إعدادات مستخدم Azure AD
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD
+- الوحدة: وصف أنواع هوية Azure AD
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 

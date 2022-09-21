@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: الوصول المشروط لـ Azure Active Directory
-  module: 'Module 2 Lesson 3: Describe the capabilities of Microsoft Identity and access management solutions: Explore the access management capabilities of Azure AD'
-ms.openlocfilehash: 9c981817c195e981ea69dc6bba5f168848d6d084
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c9d70711fdf9579ef2fdac491a59ceaf6a09547a
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557356"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892479"
 ---
-# <a name="demo-azure-active-directory-conditional-access"></a>العرض التوضيحي: الوصول المشروط في Azure Active Directory
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: مسار التعلم/الوحدة النمطية/الوحدة 'الوصول المشروط لـ Azure AD': 'مسار التعلم: وصف إمكانات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 3: وصف إمكانيات إدارة الوصول في Azure AD؛ الوحدة النمطية 2: وصف الوصول المشروط في Azure AD'
+---
+--->
+
+# <a name="demo-azure-ad-conditional-access"></a>العرض التوضيحي: الوصول المشروط لـ Azure AD
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف إمكانات إدارة الوصول في Azure AD
+- الوحدة: وصف الوصول المشروط في Azure AD
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 

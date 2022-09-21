@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف Microsoft Defender for Cloud
-  module: 'Module 3 Lesson 2: Describe the capabilities of Microsoft security solutions: Describe security management capabilities of Azure'
-ms.openlocfilehash: 29933f0f33320aba85a58af7f0cbff4d8b430247
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: eeee584ece9bb3ec4edcba5fa2e76a13dd9459c4
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146650071"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892599"
 ---
+<a name="---"></a><!---
+---
+التمرين المعملي: العنوان: 'استكشاف Microsoft Defender for Cloud' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 2: وصف إمكانيات إدارة الأمان في Azure؛ الوحدة 3: وصف Microsoft Defender for Cloud'
+---
+--->
+
 # <a name="lab-explore-microsoft-defender-for-cloud"></a>نشاط معملي: استكشاف Microsoft Defender for Cloud
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة الأمان في Azure
+- الوحدة: وصف Microsoft Defender for Cloud
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

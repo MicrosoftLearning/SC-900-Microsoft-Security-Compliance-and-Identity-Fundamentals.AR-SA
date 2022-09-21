@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: أوصاف الحساسية في Microsoft Purview
-  module: 'Module 4 Lesson 3: Describe the capabilities of Microsoft compliance solutions: Describe information protection and data lifecycle management of Microsoft Purview'
-ms.openlocfilehash: 9dbcb385f5f4545942ecd38fe5fc0ad17e2934a3
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: 7f6827f55ddc30dac37ab7da750a9331477650f1
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146649951"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892413"
 ---
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: 'تسميات الحساسية في Microsoft Purview' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview؛ الوحدة النمطية 4: وصف تسميات الحساسية'
+---
+--->
+
 # <a name="demo-sensitivity-labels-in-microsoft-purview"></a>العرض التوضيحي: أوصاف الحساسية في Microsoft Purview
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview
+- الوحدة النمطية: وصف تسميات الحساسية
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 

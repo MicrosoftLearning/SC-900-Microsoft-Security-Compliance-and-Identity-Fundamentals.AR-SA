@@ -1,15 +1,24 @@
 ---
-lab:
-  title: 'استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة. '
-  module: 'Module 2 Lesson 4: Describe the identity protection and governance capabilities of Azure AD: Describe Azure Identity Protection.'
-ms.openlocfilehash: bd50a2be33b8a9b6cf23831d9fce1c6761032484
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: e3ea450ebe43fa107a828166c32cfcac8d26e580
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557260"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892215"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: 'استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة. 'مسار التعلم/الوحدة النمطية/الوحدة: ' مسار التعلم: وصف إمكانيات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 4: وصف حماية الهوية وقدرات الحوكمة في Azure AD؛ الوحدة 4: وصف قدرات إدارة الهوية المتميزة'
+---
+--->
+
 # <a name="lab-explore-identity-governance-in-azure-ad-with-privileged-identity-management"></a>نشاط معملي: استكشاف إدارة الهويات في Azure AD باستخدام إدارة الهويات المتميزة
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف إمكانات حماية الهوية والحوكمة في Azure AD
+- الوحدة: وصف إمكانيات إدارة الهوية المميزة
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

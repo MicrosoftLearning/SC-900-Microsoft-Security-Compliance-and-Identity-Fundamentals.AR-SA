@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: dfa993671d905ed8bad138376c8cd71b1aa23d85
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 656e8003ac2a835d263b98cc25871f186ff2a0c8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741861"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892635"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف Microsoft Sentinel" مسار التعلم/الوحدة النمطية/العنوان: "مسار التعلم: وصف قدرات حلول أمان Microsoft؛ الوحدة النمطية 3: وصف قدرات الأمان لـ Microsoft Sentinel؛ الوحدة 3: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للمخاطر'
+---
+--->
+
 # <a name="lab-explore-microsoft-sentinel"></a>نشاط معملي: استكشاف Microsoft Sentinel
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف القدرات الأمنية لـ Microsoft Sentinel
+- الوحدة: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للتهديدات
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

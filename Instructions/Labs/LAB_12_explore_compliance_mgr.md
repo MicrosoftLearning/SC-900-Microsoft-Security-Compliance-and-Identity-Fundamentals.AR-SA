@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 4f0c9c57619e1dc8c44ce86b97e4ac9a5488e189
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 8d3268c28c1dc2335f0554caf801abe11b6ae0d2
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741825"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892371"
 ---
+<a name="---"></a><!---
+---
+التمرين المعملي: العنوان: "استكشاف مدخل التوافق في Microsoft Purview & Compliance Manager" مسار التعلم/الوحدة النمطية /الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة 2: وصف مدخل التوافق في Microsoft Purview'
+---
+--->
+
 # <a name="lab-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>نشاط معملي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة التوافق في Microsoft Purview
+- الوحدة: وصف مدخل التوافق مع Microsoft Purview
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 

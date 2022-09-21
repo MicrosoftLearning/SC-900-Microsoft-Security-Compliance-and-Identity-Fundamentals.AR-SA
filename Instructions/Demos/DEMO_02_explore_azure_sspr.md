@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure Active Directory
-  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
-ms.openlocfilehash: 819439157f86ba4a28255cf876e239f3960df8f4
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 56e48510b5cca7dc77cc8b8f658e1ac50e44c7b8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557212"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892131"
 ---
-# <a name="demo-azure-active-directory-self-service-password-reset-sspr"></a>العرض التوضيحي: إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD (SSPR)
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: 'إعادة تعيين كلمة مرور الخدمة الذاتية لـ Azure AD (SSPR)' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 2: وصف إمكانيات المصادقة في Azure AD؛ الوحدة النمطية 4: وصف إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD'
+---
+--->
+
+# <a name="demo-azure-ad-self-service-password-reset-sspr"></a>عرض توضيحي: إعادة تعيين كلمة مرور الخدمة الذاتية لـ Azure AD (SSPR)
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف إمكانيات المصادقة في Azure AD
+- الوحدة: وصف إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
