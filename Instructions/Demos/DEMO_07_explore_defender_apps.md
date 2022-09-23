@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: 'تطبيقات Microsoft Defender للسحابة '
-  module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: 5ab8489c487f8eb80354f18cf83b896f8ba4793f
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 2ea64f800931ec99ace8cd3ec349573a0931899e
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557164"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892611"
 ---
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: الوحدة النمطية Microsoft Defender للتطبيقات السحابية ': 'مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة النمطية 5: وصف Microsoft Defender للتطبيقات السحابية'
+---
+--->
+
 # <a name="demo-microsoft-defender-for-cloud-apps"></a>العرض التوضيحي: Microsoft Defender لتطبيقات السحابة
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف إمكانات الحماية من التهديدات في Microsoft 365
+- الوحدة: وصف Microsoft Defender للتطبيقات السحابية
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 

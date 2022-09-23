@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: نهج Azure
-  module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: d336b34711cbfd458d25cf7692bea27ad34f86ab
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 61ec82b1a7015371a60df61c5a6e5af39cdd9fd6
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557128"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892203"
 ---
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: مسار التعلم/الوحدة النمطية/الوحدة 'نهج Azure': 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 6: وصف إمكانات إدارة الموارد في Azure؛ الوحدة النمطية 2: وصف نهج Azure'
+---
+--->
+
 # <a name="demo-azure-policy"></a>العرض التوضيحي: نهج Azure
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة الموارد في Azure
+- الوحدة: وصف سياسة Azure
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
@@ -19,7 +28,7 @@ ms.locfileid: "144557128"
 
 إنشاء نهج لطلب علامة على مجموعة موارد (يوضح خطوات إنشاء نهج من نموذج)
 
-1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.microsoft.com**.  يجب أن تكون قد سجلت الدخول بالفعل، إذا لم تقم بتسجيل الدخول، فقم بذلك باستخدام بيانات اعتماد المسؤول خاصتك.
+1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.azure.com.**  يجب أن تكون قد سجلت الدخول بالفعل، إذا لم تقم بتسجيل الدخول، فقم بذلك باستخدام بيانات اعتماد المسؤول خاصتك.
 
 1. في مربع البحث، في الشريط الأزرق أعلى الصفحة بجوار المكان الذي تظهر فيه كلمة Microsoft Azure، أدخل **نهج**، ثم حدد **النهج** من نتائج البحث.
 

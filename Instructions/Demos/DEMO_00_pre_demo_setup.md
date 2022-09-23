@@ -1,18 +1,24 @@
 ---
-Pre-Demo Setup:
-  title: إعداد العرض التوضيحي
-ms.openlocfilehash: 32b79bd8e8beaad0db6363b04084545cc0e1591e
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 153cab11947f866aea32e5d718f449c6b4d0f5b5
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557248"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892467"
 ---
-# <a name="pre-demo-setup"></a>الإعداد السابق للعرض التوضيحي
+<a name="---"></a><!---
+---
+إعداد ما قبل العرض التجريبي: العنوان: 'إعداد العرض التوضيحي'
+---
+--->
 
-## <a name="setup-part-1---redeem-azure-pass"></a>الجزء 1 من الإعداد - استرداد Azure Pass
+## <a name="pre-demo-setup"></a>الإعداد السابق للعرض التوضيحي
 
-في مهمة الإعداد هذه، ستقوم باسترداد Azure pass خاصتك باستخدام نفس بيانات الاعتماد التي تستخدمها في مستأجر Microsoft 365 خاصتك.  ويتيح هذا تجربة أكثر سلاسة عند الانتقال بين Microsoft 365 وAzure.
+يتكون هذا الإعداد من مهمتين منفصلتين.  يتم تطبيق المهمة الأولى ويوصى بها فقط إذا كانت البيئة التجريبية الخاصة بك تتضمن استخدام Azure pass. تركز المهمة الثانية على تمكين سجل تدقيق Microsoft، ويتم تطبيقه ويوصى به بغض النظر عما إذا كانت بيئتك تستخدم Azure Pass أم لا.
+
+### <a name="setup-part-1---redeem-azure-pass"></a>الجزء 1 من الإعداد - استرداد Azure Pass
+
+تنطبق هذه المهمة ويوصى بها فقط إذا كانت بيئة العرض التوضيحي التي تستخدمها تتضمن Azure Pass. في هذه المهمة، ستقبل Azure Pass خاصتك باستخدام نفس بيانات الاعتماد التي تستخدمها في مستأجر Microsoft 365.  ويتيح هذا تجربة أكثر سلاسة عند الانتقال بين Microsoft 365 وAzure.
 
 1. إذا كان لديك أي نوافذ مستعرض مفتوحة، فمن المستحسن أن تغلق جميع المستعرضات.
 

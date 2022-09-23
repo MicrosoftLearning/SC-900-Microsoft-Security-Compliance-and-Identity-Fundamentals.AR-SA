@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 4745dddb860e82ddc05e7c88deb0e0644046e0b5
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 8d3268c28c1dc2335f0554caf801abe11b6ae0d2
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557477"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892371"
 ---
+<a name="---"></a><!---
+---
+التمرين المعملي: العنوان: "استكشاف مدخل التوافق في Microsoft Purview & Compliance Manager" مسار التعلم/الوحدة النمطية /الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة 2: وصف مدخل التوافق في Microsoft Purview'
+---
+--->
+
 # <a name="lab-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>نشاط معملي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة التوافق في Microsoft Purview
+- الوحدة: وصف مدخل التوافق مع Microsoft Purview
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -69,7 +78,7 @@ ms.locfileid: "144557477"
 
 1. من قائمة القوالب المضمنة، حدد **ISO/IEC27001:2013**. من أعلى يمين الصفحة، حدد **+ إنشاء تقييم**.  لاحظ أن هناك خطوتين فقط لإنشاء تقييم من القالب على الجانب الأيسر من الشاشة.  حدد "إلغاء" من أسفل الصفحة.
 
-1. أغلق علامات تبويب المستعرض المفتوحة.
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 242d971510a428170a0d531b1ddcdf422ed4f9c9
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 8d58cd38338d81136cf0b9b474137354269507e6
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557320"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892383"
 ---
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: 'Microsoft Sentinel' مسار التعلم/ الوحدة النمطية/العنوان: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 3: وصف القدرات الأمنية لبرنامج Microsoft Sentinel؛ الوحدة النمطية 3: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للتهديدات'
+---
+--->
+
 # <a name="demo-microsoft-sentinel"></a>العرض التوضيحي: Microsoft Sentinel
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف القدرات الأمنية لـ Microsoft Sentinel
+- الوحدة: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للتهديدات
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
@@ -121,9 +130,9 @@ ms.locfileid: "144557320"
 
 1. من الزاوية العلوية إلى اليسار من النافذة، أسفل الشريط الأزرق مباشرة، حدد **Home** للعودة إلى الصفحة الرئيسية لمدخل Azure.
 
-### <a name="task-6"></a>المهمة 6
+### <a name="post-course-delivery-tear-down"></a>التخلص من بيانات ما بعد تقديم الدورة التدريبية
 
-التخلص من بيانات ما بعد تقديم الدورة التدريبية. تتم المحاسبة على Microsoft Sentinel بناءً على حجم البيانات التي يتم استيعابها للتحليل في Microsoft Sentinel. بالرغم من أن كمية البيانات التي يتم استيعابها نتيجة لهذا العرض التوضيحي ضئيلة، فمن المستحسن حذف مجموعة موارد Microsoft Sentinel عند الانتهاء من استكشاف إمكانات Microsoft Sentinel.
+تتم المحاسبة على Microsoft Sentinel بناءً على حجم البيانات التي يتم استيعابها للتحليل في Microsoft Sentinel. بالرغم من أن كمية البيانات التي يتم استيعابها نتيجة لهذا العرض التوضيحي ضئيلة، فمن المستحسن حذف مجموعة موارد Microsoft Sentinel عند الانتهاء من تسليم الدورة التدريبية.
 
 1. من صفحة Microsoft Sentinel، في الزاوية العلوية اليمنى من الصفحة، وفوق مكان وجود Microsoft Sentinel، حدد **All Services**.
 

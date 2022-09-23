@@ -1,15 +1,24 @@
 ---
-lab:
-  title: 'استكشاف Microsoft Defender for Cloud Apps '
-  module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: cdd0953cafd267114577b53eb7470cd65a4c2bc5
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: ef5c993972dcff57836c8ac045a19903b8c15721
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557560"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892623"
 ---
+<a name="---"></a><!---
+---
+تمرين معملي: العنوان: 'استكشاف Microsoft Defender for Cloud Apps' الوحدة النمطية: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة النمطية 5: وصف Microsoft Defender للتطبيقات السحابية'
+---
+--->
+
 # <a name="lab-explore-microsoft-defender-for-cloud-apps"></a>نشاط معملي: استكشاف Microsoft Defender for Cloud Apps
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف إمكانات الحماية من التهديدات في Microsoft 365
+- الوحدة: وصف Microsoft Defender للتطبيقات السحابية
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -79,7 +88,7 @@ ms.locfileid: "144557560"
 
 1. من لوحة التنقل اليسرى، حدد **التنبيهات**.  إذا كان لديك أي تنبيهات مدرجة، فحدد عنصرًا من قائمة التنبيهات. راجع المعلومات المقدمة.  من الجانب العلوي الأيمن من النافذة، حدد **إغلاق التنبيه** لعرض خيارات إغلاق التنبيه.  
 
-1. أغلق نافذة المتصفح.
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

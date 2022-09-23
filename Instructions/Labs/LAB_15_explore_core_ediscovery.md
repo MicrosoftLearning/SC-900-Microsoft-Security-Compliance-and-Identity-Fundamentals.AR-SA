@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشف سير عمل eDiscovery (قياسي)
-  module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft Purview'
-ms.openlocfilehash: 60abb7856a80be94c8f1bd755f313a0d12616671
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 430bb5ab95d4abaa73eb4aa02372b21fdbb768df
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557596"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892657"
 ---
+<a name="---"></a><!---
+---
+تمرين معملي: العنوان: "استكشاف سير عمل eDiscovery (القياسي)" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 5: وصف إمكانات eDiscovery والتدقيق الخاصة بـ Microsoft Purview؛ الوحدة 2: وصف حلول eDiscovery في Microsoft 365'
+---
+--->
+
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>نشاط معملي: استكشف سير عمل eDiscovery (قياسي)
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات eDiscovery والتدقيق في Microsoft Purview
+- الوحدة: وصف حلول eDiscovery في Microsoft 365
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -126,6 +135,8 @@ ms.locfileid: "144557596"
     1. في الحقل الثاني، حدد الموقع الذي تريد تخزين ملف التصدير فيه، ثم حدد **بدء**.  بمجرد اكتمال عملية التنزيل، حدد **إغلاق** وأغلِق علامة تبويب المستعرض.
     1. لقد عدت إلى نافذة "اختبار الاحتجاز - بحث المبيعات_تصدير".  حدد ⁧**⁩Close⁧**⁩.
     1. تحقق من موقع التنزيل للتحقق من اكتمال التنزيل بنجاح.
+
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

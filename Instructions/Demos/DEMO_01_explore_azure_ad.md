@@ -1,23 +1,41 @@
 ---
-Demo:
-  title: إعدادات مستخدم Azure Active Directory
-  module: 'Module 2 Lesson 1: Describe the capabilities of Microsoft Identity and access management solutions: Explore the services and identity types of Azure AD'
-ms.openlocfilehash: eb1ffc50ce90922dced58726c39879edfc74fb5b
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c230a54bb7d4d9cd876aacd4e04185ce674a22db
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557170"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892179"
 ---
-# <a name="demo-azure-active-directory-user-settings"></a>العرض التوضيحي: إعدادات مستخدم Azure Active Directory
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: مسار التعلم/الوحدة النمطية/الوحدة 'استكشاف إعدادات مستخدم Azure AD': 'مسار التعلم: وصف إمكانات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 1: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD؛ الوحدة النمطية 4: وصف أنواع هوية Azure AD'
+---
+--->
+
+# <a name="demo-azure-ad-user-settings"></a>العرض التوضيحي: إعدادات مستخدم Azure AD
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD
+- الوحدة: وصف أنواع هوية Azure AD
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
-في هذا العرض التوضيحي، ستصل إلى Azure Active Directory وتتصفح الإعدادات المختلفة لمستخدم حالي.
+في هذا العرض التوضيحي، ستصل إلى Azure Active Directory وتتصفح الإعدادات المختلفة لمستخدم حالي.  ملاحظة لمقدم العرض:  يصل هذا العرض التوضيحي إلى Azure AD من خلال مستأجر Microsoft 365. خيار بديل لإظهار المتعلمين هو الوصول إلى Azure AD من خلال مدخل Azure. الهدف من المرور عبر مدخل Microsoft 365 هو إظهار أن Microsoft 365 يتضمن الوصول إلى Azure AD.
 
-1. انتقل إلى علامة تبويب **الصفحة الرئيسية - Microsoft Azure** المفتوحة في المستعرض.  إذا كنت قد أغلقت علامة التبويب مسبقًا، فافتح Microsoft Edge وفي شريط العناوين، أدخل portal.azure.com وقم بتسجيل الدخول باستخدام نفس بيانات اعتماد المسؤول التي استخدمتها في مستأجر Microsoft 365 خاصتك.
+1. افتح مستعرض Microsoft Edge.
 
-1. الصفحة المنتقل إليها لمدخل Azure تعرض خدمات Azure، حدد **Azure Active Directory**. إذا لم تظهر الصفحة على الفور، فقم بإدخال Azure Active Directory من مربع البحث بجوار المكان الذي تظهر فيه كلمة Microsoft Azure.  قد ترغب أيضًا في استعراض كيفية الوصول عبر أيقونة إظهار قائمة المدخل (الخطوط الأفقية الثلاثة يشار إليها أيضًا بأيقونة الهامبرغر، في الشريط الأزرق بأعلى الصفحة) على يسار المكان الذي تظهر فيه كلمة Microsoft Azure.
+1. في شريط العناوين، أدخل **admin.microsoft.com** للوصول إلى مركز مسؤولي Microsoft 365.
+
+1. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
+    1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
+    1. أدخل كلمة مرور المسؤول التي يجب أن يوفرها موفر استضافة النشاط المعملي خاصتك. حدد **"Sign in"**.
+    1. عند مطالبتك بالبقاء مسجلاً للدخول، حدد **نعم**.
+
+1. من جزء التنقل الأيسر لمركز مسؤولي Microsoft 365، حدد **إظهار الكل**.
+
+1. ضمن مراكز المسؤولين، حدد **Azure Active Directory** (قد تحتاج إلى التمرير لأسفل).  يتم فتح صفحة مستعرض جديدة على صفحة لوحة المعلومات خاصتي في مركز مسؤولي Azure Active Directory. من النوافذ الرئيسية للوحة المعلومات، سترى العديد من المربعات، بما في ذلك لوحة هوية المؤسسة (Contoso والمستأجر وإصدار Azure AD)، ولوحة للمستخدمين والمجموعات والمزيد.
 
 1. من جزء التنقّل الأيسر، حدد **المستخدمون**. لاحظ أن المستأجر خاصتك قد تم تكوينه بالفعل مع المستخدمين.
 

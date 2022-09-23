@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف Azure Policy
-  module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 23e8f4f8417367a16cbd41496428918ca219fa40
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 8e34065623722f1f249c4da363aa862e46e49b0b
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557512"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892143"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف نهج Azure" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 6: وصف قدرات إدارة الموارد في Azure؛ الوحدة 2: وصف نهج Azure'
+---
+--->
+
 # <a name="lab-explore-azure-policy"></a>نشاط معملي: استكشاف Azure Policy
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة الموارد في Azure
+- الوحدة: وصف سياسة Azure
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -21,7 +30,7 @@ ms.locfileid: "144557512"
 
 استكشاف بإيجاز صفحة نهج Azure.
 
-1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.microsoft.com**.
+1. افتح مستعرض Microsoft Edge. في شريط العناوين، أدخل **portal.azure.com.**
 
 1. سجل الدخول باستخدام بيانات اعتماد المسؤول خاصتك.
     1. في نافذة تسجيل الدخول، أدخل **admin@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
@@ -125,6 +134,8 @@ ms.locfileid: "144557512"
     1. أسفل المكان الذي تظهر فيه خدمات Azure، حدد نهج Azure.
     1. في منتصف الصفحة، سترى قائمة بتعيينات مبادرة/نهج Azure.  حدد علامات الحذف لتعيين النهج تتطلب علامة في مجموعات الموارد، ثم حدد حذف التعيين.
     1. سيُطلب منك تأكيد رغبتك في حذف التعيين.  حدد Yes.
+
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

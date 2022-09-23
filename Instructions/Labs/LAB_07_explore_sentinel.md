@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 857d7f5ad5e0a9136d298c32cd47063a83e454e7
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 656e8003ac2a835d263b98cc25871f186ff2a0c8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557152"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892635"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف Microsoft Sentinel" مسار التعلم/الوحدة النمطية/العنوان: "مسار التعلم: وصف قدرات حلول أمان Microsoft؛ الوحدة النمطية 3: وصف قدرات الأمان لـ Microsoft Sentinel؛ الوحدة 3: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للمخاطر'
+---
+--->
+
 # <a name="lab-explore-microsoft-sentinel"></a>نشاط معملي: استكشاف Microsoft Sentinel
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف القدرات الأمنية لـ Microsoft Sentinel
+- الوحدة: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للتهديدات
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -137,7 +146,7 @@ ms.locfileid: "144557152"
 
 4. من أعلى منتصف الصفحة، حدد **حذف مجموعة الموارد**.  راجع التحذير.  أدخل اسم مجموعة الموارد، **SC900-ResourceGroup**، ثم حدد **حذف** من أسفل الصفحة.  سيستغرق حذف مجموعة الموارد عدة دقائق.
 
-5. بمجرد التحقق من حذف مجموعة الموارد، أغلق صفحة المستعرض.
+5. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 

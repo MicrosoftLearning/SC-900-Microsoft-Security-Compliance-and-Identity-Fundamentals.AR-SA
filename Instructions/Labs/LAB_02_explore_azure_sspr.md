@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف مصادقة Azure AD بإعادة تعيين كلمة مرور الخدمة الذاتية
-  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
-ms.openlocfilehash: 6e9bcabdacc0e7c7f4c821c9a2fe018341055799
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: b2e4d568e0d3b5d05cf4462183b977ba4e41c599
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557464"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892167"
 ---
+<a name="---"></a><!---
+---
+تمرين عملي: العنوان: "استكشاف مصادقة Azure AD مع إعادة تعيين كلمة مرور الخدمة الذاتية" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، جزء من Microsoft Entra؛ الوحدة النمطية 2: وصف قدرات مصادقة Azure AD؛ الوحدة 4: وصف إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD'
+---
+--->
+
 # <a name="lab-explore-azure-ad-authentication-with-self-service-password-reset"></a>نشاط معملي: استكشاف مصادقة Azure AD بإعادة تعيين كلمة مرور الخدمة الذاتية
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra
+- الوحدة النمطية: وصف إمكانيات المصادقة في Azure AD
+- الوحدة: وصف إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -97,7 +106,7 @@ ms.locfileid: "144557464"
 2. في شريط العناوين، أدخل **login.microsoftonline.com**.
 
 3. سجل الدخول بصفتك Adele Vance،
-    1. في نافذة تسجيل الدخول، أدخل **AdedleV@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
+    1. في نافذة تسجيل الدخول، أدخل **AdeleV@WWLxZZZZZZ.onmicrosoft.com** (حيث يعد ZZZZZZ هو معرّف المستأجر الفريد الذي يوفره موفّر استضافة نشاطك المعملي) ثم حدد **Next**.
     1. أدخل كلمة المرور التي سجلتها في المهمة السابقة. حدد **"Sign in"**.
     1. عند مطالبتك بالبقاء مسجلاً للدخول، حدد **نعم**
 

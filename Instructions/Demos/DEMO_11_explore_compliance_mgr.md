@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 7c0b3e5a3153e48ddb3a7e7cca991c9df6a89bdf
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 557b2974e32c920172be89f909225d30519b79a0
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557236"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892397"
 ---
+<a name="---"></a><!---
+---
+العرض التوضيحي: العنوان: 'استكشاف مدخل التوافق مع Microsoft Purview ومدير التوافق' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة النمطية 2: وصف مدخل التوافق مع Microsoft Purview'
+---
+--->
+
 # <a name="demo-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>العرض التوضيحي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
+
+يعيّن هذا العرض التوضيحي محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات التوافق مع Microsoft
+- الوحدة النمطية: وصف إمكانات إدارة التوافق في Microsoft Purview
+- الوحدة النمطية: وصف مدخل التوافق مع Microsoft Purview
 
 ## <a name="demo-scenario"></a>سيناريو العرض التوضيحي
 
@@ -69,7 +78,7 @@ ms.locfileid: "144557236"
 
 1. من قائمة القوالب المضمنة، حدد **ISO/IEC27001:2013**. من أعلى يمين الصفحة، حدد **+ إنشاء تقييم**.  لاحظ أن هناك خطوتين فقط لإنشاء تقييم من القالب على الجانب الأيسر من الشاشة.  حدد "إلغاء" من أسفل الصفحة.
 
-1. من لوحة التنقل اليسرى، حدد **الصفحة الرئيسية** للعودة إلى الصفحة الرئيسية لمدخل التوافق في Microsoft Purview.  احتفظ بصفحة المستعرض مفتوحة للعرض التوضيحي التالي.
+1. من لوحة التنقل اليسرى، حدد **الصفحة الرئيسية** للعودة إلى الصفحة الرئيسية لمدخل التوافق في Microsoft Purview.  احتفظ بصفحة المستعرض هذه مفتوحة للعرض التوضيحي التالي.
 
 ### <a name="review"></a>مراجعة
 

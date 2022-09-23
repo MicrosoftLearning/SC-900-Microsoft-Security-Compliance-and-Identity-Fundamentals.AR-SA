@@ -1,15 +1,24 @@
 ---
-lab:
-  title: استكشاف مدخل Microsoft 365 Defender
-  module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: dafab309af48617209f70b79ad5843d23eecd448
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c22aadb543f4501b74be9a6d12da3af3b63b632f
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557140"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892671"
 ---
+<a name="---"></a><!---
+---
+التمرين المعملي: العنوان: الوحدة النمطية "استكشاف مدخل Microsoft 365 Defender": "مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة 7: وصف مدخل Microsoft 365 Defender '
+---
+--->
+
 # <a name="lab-explore-the-microsoft-365-defender-portal"></a>نشاط معملي: استكشاف مدخل Microsoft 365 Defender
+
+يقوم هذا التمرين المعملي بتعيين محتوى Learn التالي:
+
+- مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft
+- الوحدة النمطية: وصف إمكانات الحماية من التهديدات في Microsoft 365
+- الوحدة: وصف مدخل Microsoft 365 Defender
 
 ## <a name="lab-scenario"></a>سيناريو النشاط المعملي
 
@@ -66,7 +75,7 @@ ms.locfileid: "144557140"
 
 1. من أعلى الصفحة، حدد **المقاييس والاتجاهات**.  لاحظ المعلومات المتاحة.  من الزاوية العلوية اليمنى من الصفحة، حدد **أيقونة التقويم**.  يمكنك تضييق نطاق العرض إلى نطاق زمني مخصص.  تحديد **أيقونة عامل تصفية**، يتيح لك تصفية العرض حسب الهوية و/أو الأجهزة و/أو التطبيقات.  أغلق النافذة وحدد **الصفحة الرئيسية** من لوحة التنقل اليسرى للعودة إلى صفحة Microsoft 365 Defender الرئيسية.
 
-1. أغلق صفحة المستعرض.
+1. أغلق جميع علامات تبويب المتصفح المفتوحة.
 
 ### <a name="review"></a>مراجعة
 
