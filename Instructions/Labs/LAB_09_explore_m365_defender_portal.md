@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 4: وصف إمكانيات الحماية من التهديدات في Microsoft 365'
 ---
 
-<a name="---"></a><!---
----
-التمرين المعملي: العنوان: الوحدة النمطية "استكشاف مدخل Microsoft 365 Defender": "مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة 7: وصف مدخل Microsoft 365 Defender '
----
---->
 
 # <a name="lab-explore-the-microsoft-365-defender-portal"></a>نشاط معملي: استكشاف مدخل Microsoft 365 Defender
 
