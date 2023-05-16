@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'نشاط معملي: استكشاف Azure Active Directory'    
-    module: ' جزء من Microsoft Entra الوحدة 1: وصف الخدمات الأساسية وأنواع الهوية في'
+    module: 'الوحدة 1: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD'
 ---
 
 <a name="---"></a><!---
