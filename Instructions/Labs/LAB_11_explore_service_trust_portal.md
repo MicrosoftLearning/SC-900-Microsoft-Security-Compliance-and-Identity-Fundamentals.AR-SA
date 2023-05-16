@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 1: وصف إمكانيات إدارة التوافق في Microsoft'
 ---
 
-<a name="---"></a><!---
----
-تمرين عملي: العنوان: "استكشاف مدخل Service Trust" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 1: وصف قدرات إدارة التوافق في Microsoft؛ الوحدة 2: استكشاف مدخل Service Trust”
----
---->
 
 # <a name="lab-explore-the-service-trust-portal"></a>نشاط معملي: استكشاف Service Trust Portal
 
