@@ -1,8 +1,8 @@
-<a name="---"></a><!---
 ---
-العرض التوضيحي: العنوان: مسار التعلم/الوحدة النمطية/الوحدة 'الوصول المشروط لـ Azure AD': 'مسار التعلم: وصف إمكانات Azure Active Directory (Azure AD)، وهو جزء من Microsoft Entra؛ الوحدة النمطية 3: وصف إمكانيات إدارة الوصول في Azure AD؛ الوحدة النمطية 2: وصف الوصول المشروط في Azure AD'
+demo:
+    title: ' الوصول المشروط لـ Azure AD'    
+    module: 'الوحدة 3: وصف إمكانيات إدارة الوصول في Azure AD'
 ---
---->
 
 # <a name="demo-azure-ad-conditional-access"></a>العرض التوضيحي: الوصول المشروط لـ Azure AD
 
