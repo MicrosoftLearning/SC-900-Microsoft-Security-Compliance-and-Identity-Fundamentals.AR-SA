@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 2: وصف إمكانيات المصادقة في Azure AD'
 ---
 
-<a name="---"></a><!---
----
-تمرين عملي: العنوان: "استكشاف مصادقة Azure AD مع إعادة تعيين كلمة مرور الخدمة الذاتية" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، جزء من Microsoft Entra؛ الوحدة النمطية 2: وصف قدرات مصادقة Azure AD؛ الوحدة 4: وصف إعادة تعيين كلمة مرور الخدمة الذاتية في Azure AD'
----
---->
 
 # <a name="lab-explore-azure-ad-authentication-with-self-service-password-reset"></a>نشاط معملي: استكشاف مصادقة Azure AD بإعادة تعيين كلمة مرور الخدمة الذاتية
 
