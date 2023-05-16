@@ -1,8 +1,9 @@
-<a name="---"></a><!---
 ---
-العرض التوضيحي: العنوان: 'استكشاف مدخل التوافق مع Microsoft Purview ومدير التوافق' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة النمطية 2: وصف مدخل التوافق مع Microsoft Purview'
+demo:
+    title: 'العرض التوضيحي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview'    
+    module: 'الوحدة 2: وصف إمكانيات إدارة التوافق في Microsoft Purview'
 ---
---->
+
 
 # <a name="demo-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>العرض التوضيحي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
 
