@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 5: وصف إمكانات eDiscovery والتدقيق في Microsoft Purview'
 ---
 
-<a name="---"></a><!---
----
-تمرين معملي: العنوان: "استكشاف سير عمل eDiscovery (القياسي)" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 5: وصف إمكانات eDiscovery والتدقيق الخاصة بـ Microsoft Purview؛ الوحدة 2: وصف حلول eDiscovery في Microsoft 365'
----
---->
 
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>نشاط معملي: استكشف سير عمل eDiscovery (قياسي)
 
