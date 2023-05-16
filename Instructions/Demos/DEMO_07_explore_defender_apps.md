@@ -1,8 +1,9 @@
-<a name="---"></a><!---
 ---
-العرض التوضيحي: العنوان: الوحدة النمطية Microsoft Defender للتطبيقات السحابية ': 'مسار التعلم: وصف إمكانيات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة النمطية 5: وصف Microsoft Defender للتطبيقات السحابية'
+demo:
+    title: 'Microsoft Defender لتطبيقات السحابة'    
+    module: 'الوحدة 4: وصف إمكانيات الحماية من التهديدات في Microsoft 365'
 ---
---->
+
 
 # <a name="demo-microsoft-defender-for-cloud-apps"></a>العرض التوضيحي: Microsoft Defender لتطبيقات السحابة
 
