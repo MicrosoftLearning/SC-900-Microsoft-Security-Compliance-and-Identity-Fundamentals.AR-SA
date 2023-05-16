@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 1: وصف الخدمات الأساسية وأنواع الهوية لـ Azure AD'
 ---
 
-<a name="---"></a><!---
----
-تمرين عملي: العنوان: "استكشاف Azure Active Directory" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات Azure Active Directory (Azure AD)، جزء من Microsoft Entra؛ الوحدة 1: وصف الخدمات الأساسية وأنواع الهوية في Azure AD؛ الوحدة 4: وصف أنواع هوية Azure AD”
----
---->
 
 # <a name="lab-explore-azure-active-directory"></a>نشاط معملي: استكشاف Azure Active Directory
 
