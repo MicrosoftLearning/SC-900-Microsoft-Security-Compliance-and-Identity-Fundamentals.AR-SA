@@ -4,11 +4,6 @@ lab:
     module: 'الوحدة 2: وصف إمكانيات إدارة التوافق في Microsoft Purview'
 ---
 
-<a name="---"></a><!---
----
-التمرين المعملي: العنوان: "استكشاف مدخل التوافق في Microsoft Purview & Compliance Manager" مسار التعلم/الوحدة النمطية /الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة 2: وصف مدخل التوافق في Microsoft Purview'
----
---->
 
 # <a name="lab-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>نشاط معملي: استكشف مدخل التوافق ومدير التوافق في Microsoft Purview
 
