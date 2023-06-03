@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'العرض التوضيحي: مدخل Service Trust Portal'    
-    module: 'الوحدة 1: وصف إمكانيات إدارة التوافق في Microsoft'
+العرض التوضيحي: العنوان: 'مسار التعلم/الوحدة النمطية/الوحدة 'مدخل Service Trust: 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 1: وصف قدرات إدارة التوافق في Microsoft؛ الوحدة النمطية 2: استكشاف مدخل Service Trust'
 ---
-
+--->
 
 # <a name="demo-service-trust-portal"></a>العرض التوضيحي: مدخل Service Trust Portal
 

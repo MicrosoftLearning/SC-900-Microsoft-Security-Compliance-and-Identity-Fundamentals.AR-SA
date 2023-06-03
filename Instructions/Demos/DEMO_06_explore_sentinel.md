@@ -1,8 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'Microsoft Sentinel'    
-    module: 'الوحدة 3: وصف القدرات الأمنية لبرنامج Microsoft Sentinel'
+العرض التوضيحي: العنوان: 'Microsoft Sentinel' مسار التعلم/ الوحدة النمطية/العنوان: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 3: وصف القدرات الأمنية لبرنامج Microsoft Sentinel؛ الوحدة النمطية 3: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للتهديدات'
 ---
+--->
 
 # <a name="demo-microsoft-sentinel"></a>العرض التوضيحي: Microsoft Sentinel
 

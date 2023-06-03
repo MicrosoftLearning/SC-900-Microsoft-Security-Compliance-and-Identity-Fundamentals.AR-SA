@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'نشاط معملي: استكشاف أوصاف الحساسية في Microsoft Purview'    
-    module: 'الوحدة 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview'
+تمرين عملي: العنوان: "استكشاف مسميات الحساسية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview؛ الوحدة 4: وصف مسميات الحساسية'
 ---
-
+--->
 
 # <a name="lab-explore-sensitivity-labels-in-microsoft-purview"></a>نشاط معملي: استكشاف أوصاف الحساسية في Microsoft Purview
 

@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'نشاط معملي: استكشاف Microsoft Defender for Cloud'    
-    module: 'الوحدة 2: وصف إمكانيات إدارة الأمان في Azure'
+التمرين المعملي: العنوان: 'استكشاف Microsoft Defender for Cloud' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 2: وصف إمكانيات إدارة الأمان في Azure؛ الوحدة 3: وصف Microsoft Defender for Cloud'
 ---
-
+--->
 
 # <a name="lab-explore-microsoft-defender-for-cloud"></a>نشاط معملي: استكشاف Microsoft Defender for Cloud
 

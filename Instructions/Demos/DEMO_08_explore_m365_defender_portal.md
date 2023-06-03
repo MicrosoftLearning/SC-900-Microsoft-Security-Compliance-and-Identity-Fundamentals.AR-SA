@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'مدخل Microsoft 365 Defender'    
-    module: 'الوحدة 4: وصف إمكانيات الحماية من التهديدات في Microsoft 365'
+العرض التوضيحي: العنوان: الوحدة النمطية 'مدخل Microsoft 365 Defender': 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة 7: وصف مدخل Microsoft 365 Defender'
 ---
-
+--->
 
 # <a name="demo-the-microsoft-365-defender-portal"></a>العرض التوضيحي: مدخل Microsoft 365 Defender
 

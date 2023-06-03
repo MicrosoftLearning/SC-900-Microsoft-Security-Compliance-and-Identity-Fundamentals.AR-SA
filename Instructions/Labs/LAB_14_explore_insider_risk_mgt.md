@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'نشاط معملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview'    
-    module: 'الوحدة 4: وصف قدرات المخاطرة الداخلية في Microsoft Purview'
+تمرين عملي: العنوان: "استكشاف إدارة المخاطر الداخلية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 4: وصف قدرات المخاطر الداخلية في Microsoft Purview؛ الوحدة 2: وصف إدارة المخاطر الداخلية'
 ---
-
+--->
 
 # <a name="lab-explore-insider-risk-management-in-microsoft-purview"></a>نشاط معملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview
 

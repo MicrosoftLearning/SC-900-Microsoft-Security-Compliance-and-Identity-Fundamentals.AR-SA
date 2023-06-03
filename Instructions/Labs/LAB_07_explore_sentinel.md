@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'نشاط معملي: استكشاف Microsoft Sentinel'    
-    module: 'الوحدة 3: وصف القدرات الأمنية لبرنامج Microsoft Sentinel'
+تمرين عملي: العنوان: "استكشاف Microsoft Sentinel" مسار التعلم/الوحدة النمطية/العنوان: "مسار التعلم: وصف قدرات حلول أمان Microsoft؛ الوحدة النمطية 3: وصف قدرات الأمان لـ Microsoft Sentinel؛ الوحدة 3: وصف كيف يوفر Microsoft Sentinel إدارة متكاملة للمخاطر'
 ---
-
+--->
 
 # <a name="lab-explore-microsoft-sentinel"></a>نشاط معملي: استكشاف Microsoft Sentinel
 

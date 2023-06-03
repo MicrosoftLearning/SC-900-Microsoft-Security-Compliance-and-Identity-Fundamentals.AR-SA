@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'Microsoft Defender للسحابة'    
-    module: 'الوحدة 2: وصف إمكانيات إدارة الأمان في Azure'
+العرض التوضيحي: العنوان: 'Microsoft Defender for Cloud' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 2: وصف إمكانيات إدارة الأمان في Azure؛ الوحدة 3: وصف Microsoft Defender for Cloud'
 ---
-
+--->
 
 # <a name="demo-microsoft-defender-for-cloud"></a>العرض التوضيحي: Microsoft Defender للسحابة
 

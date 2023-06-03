@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'النشاط المعملي: استكشاف إدارة الوصول في Azure AD باستخدام الوصول المشروط'    
-    module: 'وصف إمكانات إدارة الوصول في Azure AD'
+تمرين عملي: مسار التعلم: "وصف قدرات Azure Active Directory (Azure AD)، جزء من الوحدة النمطية Microsoft Entra": "وصف إمكانات إدارة الوصول في Azure AD" الوحدة: "وصف الوصول المشروط في Azure AD'
 ---
-
+--->
 
 # <a name="lab-explore-access-management-in-azure-ad-with-conditional-access"></a>النشاط المعملي: استكشاف إدارة الوصول في Azure AD باستخدام الوصول المشروط
 

@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-lab:
-    title: 'نشاط معملي: استكشاف Microsoft Defender for Cloud Apps'    
-    module: 'الوحدة 4: وصف إمكانيات الحماية من التهديدات في Microsoft 365'
+تمرين معملي: العنوان: 'استكشاف Microsoft Defender for Cloud Apps' الوحدة النمطية: 'مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف إمكانيات الحماية من التهديدات لـ Microsoft 365؛ الوحدة النمطية 5: وصف Microsoft Defender للتطبيقات السحابية'
 ---
-
+--->
 
 # <a name="lab-explore-microsoft-defender-for-cloud-apps"></a>نشاط معملي: استكشاف Microsoft Defender for Cloud Apps
 

@@ -1,9 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'العرض التوضيحي: أوصاف الحساسية في Microsoft Purview'    
-    module: 'dule 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview'
+العرض التوضيحي: العنوان: 'تسميات الحساسية في Microsoft Purview' مسار التعلم/الوحدة النمطية/الوحدة: 'مسار التعلم: وصف إمكانات توافق Microsoft؛ الوحدة النمطية 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview؛ الوحدة النمطية 4: وصف تسميات الحساسية'
 ---
-
+--->
 
 # <a name="demo-sensitivity-labels-in-microsoft-purview"></a>العرض التوضيحي: أوصاف الحساسية في Microsoft Purview
 
