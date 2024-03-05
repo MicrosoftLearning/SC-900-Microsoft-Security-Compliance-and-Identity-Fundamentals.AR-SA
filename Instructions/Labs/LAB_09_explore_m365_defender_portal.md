@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: الوحدة النمطية "استكشاف مدخل Microsoft 365 Defender": "مسار التعلم: وصف قدرات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف قدرات الحماية من التهديدات لـ Microsoft 365؛ الوحدة 7: وصف مدخل Microsoft 365 Defender"
+lab:
+  title: استكشاف مدخل Microsoft 365 Defender
+  module: Describe the threat protection capabilities of Microsoft 365
 ---
---->
 
 # النشاط المعملي: استكشاف مدخل Microsoft 365 Defender
 

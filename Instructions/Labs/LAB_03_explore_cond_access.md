@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: مسار التعلم: "وصف قدرات Azure Active Directory (Azure AD)، جزء من الوحدة النمطية Microsoft Entra": "وصف قدرات إدارة الوصول في Azure AD" الوحدة: "وصف الوصول المشروط في Azure AD"
+lab:
+  title: الوصول المشروط باستخدام Microsoft Entra
+  module: Describe the access management capabilities of Microsoft Entra ID
 ---
---->
 
 # النشاط المعملي: الوصول المشروط باستخدام Microsoft Entra
 

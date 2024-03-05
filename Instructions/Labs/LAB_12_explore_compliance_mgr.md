@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف مدخل التوافق في Microsoft Purview & Compliance Manager" مسار التعلم/الوحدة النمطية /الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 2: وصف قدرات إدارة التوافق في Microsoft Purview؛ الوحدة 2: وصف مدخل التوافق في Microsoft Purview"
+lab:
+  title: استكشاف مدخل توافق Microsoft Purview وCompliance Manager
+  module: Describe the compliance management capabilities in Microsoft Purview
 ---
---->
 
 # النشاط المعملي: استكشف مدخل التوافق مدير التوافق في Microsoft Purview
 
