@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف Microsoft Defender for Cloud Apps" الوحدة النمطية: "مسار التعلم: وصف قدرات حلول الأمان من Microsoft؛ الوحدة النمطية 4: وصف قدرات الحماية من التهديدات لـ Microsoft 365؛ الوحدة النمطية 5: وصف Microsoft Defender للتطبيقات السحابية"
+lab:
+  title: استكشاف Microsoft Defender for Cloud Apps
+  module: Describe the threat protection capabilities of Microsoft 365
 ---
---->
 
 # النشاط المعملي: استكشاف Microsoft Defender for Cloud Apps
 

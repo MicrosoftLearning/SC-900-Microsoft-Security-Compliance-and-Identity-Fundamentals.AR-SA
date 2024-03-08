@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف سير عمل eDiscovery (قياسي)" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 5: وصف قدرات eDiscovery والتدقيق الخاصة بـ Microsoft Purview؛ الوحدة 2: وصف حلول eDiscovery في Microsoft 365"
+lab:
+  title: استكشاف سير عمل eDiscovery (قياسي)
+  module: Describe the eDiscovery and audit capabilities of Microsoft Purview
 ---
---->
 
 # النشاط المعملي: استكشاف سير عمل eDiscovery (قياسي)
 
