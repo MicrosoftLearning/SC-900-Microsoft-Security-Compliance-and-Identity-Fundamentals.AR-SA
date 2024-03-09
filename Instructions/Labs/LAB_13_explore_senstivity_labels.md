@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف أوصاف الحساسية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 3: وصف حماية المعلومات وإدارة دورة حياة البيانات في Microsoft Purview؛ الوحدة 4: وصف أوصاف الحساسية"
+lab:
+  title: استكشاف أوصاف الحساسية في Microsoft Purview
+  module: Describe information protection and data lifecycle management in Microsoft Purview
 ---
---->
 
 # النشاط المعملي: استكشاف أوصاف الحساسية في Microsoft Purview
 

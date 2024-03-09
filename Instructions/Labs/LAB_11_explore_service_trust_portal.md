@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف مدخل Service Trust" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 1: وصف قدرات إدارة التوافق في Microsoft؛ الوحدة 2: استكشاف مدخل Service Trust”
+lab:
+  title: استكشاف Service Trust Portal
+  module: Describe the compliance management capabilities at Microsoft
 ---
---->
 
 # النشاط المعملي: استكشاف Service Trust Portal
 

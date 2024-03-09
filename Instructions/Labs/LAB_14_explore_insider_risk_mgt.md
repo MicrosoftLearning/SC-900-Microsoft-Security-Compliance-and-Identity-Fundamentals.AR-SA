@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف إدارة المخاطر الداخلية في Microsoft Purview" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 4: وصف قدرات المخاطر الداخلية في Microsoft Purview؛ الوحدة 2: وصف إدارة المخاطر الداخلية"
+lab:
+  title: استكشاف إدارة المخاطر الداخلية في Microsoft Purview
+  module: Describe the insider risk capabilities in Microsoft Purview
 ---
---->
 
 # النشاط المعملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview
 

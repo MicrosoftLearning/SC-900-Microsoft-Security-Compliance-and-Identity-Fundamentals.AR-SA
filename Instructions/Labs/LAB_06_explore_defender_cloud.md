@@ -1,8 +1,8 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف Microsoft Defender for Cloud' مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف إمكانات حلول الأمان من Microsoft؛ الوحدة النمطية 2: وصف إمكانيات إدارة الأمان في Azure؛ الوحدة 3: وصف إدارة الوضع الأمني السحابي"
+lab:
+  title: استكشاف Microsoft Defender for Cloud
+  module: Describe the security management capabilities of Azure
 ---
---->
 
 # النشاط المعملي: استكشاف Microsoft Defender for Cloud
 

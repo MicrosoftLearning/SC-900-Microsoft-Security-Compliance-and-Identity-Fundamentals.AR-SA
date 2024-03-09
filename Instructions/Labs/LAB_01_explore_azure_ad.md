@@ -1,10 +1,10 @@
-<!---
 ---
-النشاط المعملي: العنوان: "استكشاف إعدادات مستخدم Microsoft Entra ID" مسار التعلم/الوحدة النمطية/الوحدة: "مسار التعلم: وصف قدرات Microsoft Entra؛ الوحدة 1: وصف الوظائف وأنواع الهوية لمعرف Microsoft Entra؛ الوحدة 3: وصف أنواع هويات Microsoft Entra"
+lab:
+  title: استكشاف الإعدادات مستخدم معرف Microsoft Entra
+  module: Describe the function and identity types of Microsoft Entra ID
 ---
---->
 
-# النشاط المعملي: استكشاف معرف Microsoft Entra
+# تمرين معملي: استكشاف الإعدادات مستخدم معرف Microsoft Entra
 
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
