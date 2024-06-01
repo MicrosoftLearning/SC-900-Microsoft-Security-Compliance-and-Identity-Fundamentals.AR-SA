@@ -1,6 +1,6 @@
 ---
 lab:
-  title: إعادة تعيين كلمة مرور الخدمة الذاتية ل Microsoft Entra
+  title: إعادة تعيين كلمة مرور الخدمة الذاتية لـ Microsoft Entra
   module: Describe the authentication capabilities of Microsoft Entra ID
 ---
 
