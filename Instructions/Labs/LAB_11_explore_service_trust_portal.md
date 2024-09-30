@@ -1,15 +1,15 @@
 ---
 lab:
   title: استكشاف Service Trust Portal
-  module: Describe the compliance management capabilities at Microsoft
+  module: Describe Microsoft’s Service Trust portal and privacy capabilities
 ---
 
 # النشاط المعملي: استكشاف Service Trust Portal
 
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
-- مسار التعلم: وصف قدرات التوافق مع Microsoft
-- الوحدة: وصف قدرات إدارة التوافق في Microsoft
+- مسار التعلم: وصف قدرات Microsoft Priva وMicrosoft Purview
+- الوحدة: وصف مدخل Service Trust وقدرات الخصوصية من Microsoft
 - الوحدة الفرعية: استكشاف Service Trust Portal
 
 ## سيناريو النشاط المعملي

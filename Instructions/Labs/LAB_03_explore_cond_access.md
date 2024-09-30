@@ -1,7 +1,7 @@
 ---
 lab:
   title: الوصول المشروط باستخدام Microsoft Entra
-  module: Describe the access management capabilities of Microsoft Entra ID
+  module: Describe the access management capabilities of Microsoft Entra
 ---
 
 # النشاط المعملي: الوصول المشروط باستخدام Microsoft Entra
@@ -9,7 +9,7 @@ lab:
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
 - مسار التعلم: وصف قدرات Microsoft Entra
-- الوحدة النمطية: وصف قدرات إدارة الوصول لمعرِّف Microsoft Entra
+- الوحدة النمطية: وصف قدرات إدارة الوصول ل Microsoft Entra
 - الوحدة: وصف الوصول المشروط
 
 ## سيناريو النشاط المعملي

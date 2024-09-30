@@ -1,16 +1,16 @@
 ---
 lab:
-  title: استكشاف سير عمل eDiscovery (قياسي)
-  module: Describe the eDiscovery and audit capabilities of Microsoft Purview
+  title: استكشاف eDiscovery
+  module: Describe the data compliance solutions of Microsoft Purview
 ---
 
-# النشاط المعملي: استكشاف سير عمل eDiscovery (قياسي)
+# التمرين المعملي: استكشاف eDiscovery
 
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
-- مسار التعلم: وصف قدرات التوافق مع Microsoft
-- الوحدة النمطية: وصف قدرات eDiscovery والتدقيق في Microsoft Purview
-- وحدة: وصف حلول eDiscovery في Microsoft Purview
+- مسار التعلم: وصف قدرات Microsoft Priva وMicrosoft Purview
+- الوحدة النمطية: وصف حلول توافق البيانات في Microsoft Purview
+- الوحدة: وصف eDiscovery
 
 ## سيناريو النشاط المعملي
 

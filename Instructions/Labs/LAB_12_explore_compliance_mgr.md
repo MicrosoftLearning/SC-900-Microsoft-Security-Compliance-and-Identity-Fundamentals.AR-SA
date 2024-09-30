@@ -1,16 +1,16 @@
 ---
 lab:
-  title: استكشاف مدخل توافق Microsoft Purview وCompliance Manager
-  module: Describe the compliance management capabilities in Microsoft Purview
+  title: استكشاف مدخل Microsoft Purview وإدارة التوافق
+  module: Describe the data compliance solutions of Microsoft Purview
 ---
 
-# النشاط المعملي: استكشف مدخل التوافق مدير التوافق في Microsoft Purview
+# تمرين معملي: استكشاف مدخل Microsoft Purview وإدارة التوافق
 
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
-- مسار التعلم: وصف قدرات التوافق مع Microsoft
-- الوحدة النمطية: وصف قدرات إدارة التوافق في Microsoft Purview
-- الوحدة: وصف مدخل التوافق مع Microsoft Purview
+- مسار التعلم: وصف قدرات Microsoft Priva وMicrosoft Purview
+- الوحدة النمطية: وصف حلول توافق البيانات في Microsoft Purview
+- الوحدة: وصف إدارة التوافق
 
 ## سيناريو النشاط المعملي
 

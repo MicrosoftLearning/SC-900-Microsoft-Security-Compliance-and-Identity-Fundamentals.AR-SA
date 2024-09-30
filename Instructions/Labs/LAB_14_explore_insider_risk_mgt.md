@@ -1,16 +1,16 @@
 ---
 lab:
   title: استكشاف إدارة المخاطر الداخلية في Microsoft Purview
-  module: Describe the insider risk capabilities in Microsoft Purview
+  module: Describe the data security solutions of Microsoft Purview
 ---
 
 # النشاط المعملي: استكشف إدارة المخاطر الداخلية في Microsoft Purview
 
 يقوم هذا النشاط المعملي بتعيين محتوى Learn التالي:
 
-- مسار التعلم: وصف قدرات التوافق مع Microsoft
-- الوحدة النمطية: وصف قدرات المخاطرة الداخلية في Microsoft Purview
-- الوحدة: وصف إدارة المخاطر الداخلية
+- مسار التعلم: وصف قدرات Microsoft Priva وMicrosoft Purview
+- الوحدة النمطية: وصف حلول أمان البيانات ل Microsoft Purview
+- الوحدة: وصف إدارة المخاطر الداخلية في Microsoft Purview
 
 ## سيناريو النشاط المعملي
 
