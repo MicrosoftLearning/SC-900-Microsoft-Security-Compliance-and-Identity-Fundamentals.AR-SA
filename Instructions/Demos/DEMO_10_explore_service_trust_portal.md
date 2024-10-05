@@ -1,6 +1,6 @@
 <!---
 ---
-العرض التوضيحي: العنوان: 'مسار التعلم/الوحدة النمطية/الوحدة 'مدخل Service Trust: 'مسار التعلم: وصف قدرات توافق Microsoft؛ الوحدة النمطية 1: وصف قدرات إدارة التوافق في Microsoft؛ الوحدة النمطية 2: استكشاف مدخل Service Trust'
+العرض التوضيحي: العنوان: مسار/وحدة/وحدة التعلم "Service Trust Portal": "وصف قدرات Microsoft Priva وMicrosoft Purview؛ الوحدة 1: وصف مدخل Microsoft Service Trust وقدرات الخصوصية؛ الوحدة 2: استكشاف Service Trust Portal
 ---
 --->
 
