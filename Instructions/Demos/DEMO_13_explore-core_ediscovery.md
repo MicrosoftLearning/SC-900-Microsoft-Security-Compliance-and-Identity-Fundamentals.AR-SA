@@ -9,7 +9,7 @@
 يعيّن هذا العرض التوضيحي محتوى Learn التالي:
 
 - مسار التعلم: وصف قدرات Microsoft Priva وMicrosoft Purview
-- الوحدة النمطية: وصف حلول توافق البيانات في Microsoft Purview
+- الوحدة: وصف حلول توافق البيانات من Microsoft Purview
 - الوحدة: وصف eDiscovery
 
 ## سيناريو العرض التوضيحي
