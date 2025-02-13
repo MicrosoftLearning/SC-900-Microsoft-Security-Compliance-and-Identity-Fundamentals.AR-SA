@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # SC-900: أساسيات الأمان والتوافق والهوية من Microsoft
 
 يتضمن هذا المستودع برامج نصية تجريبية وإرشادات معملية لـ **SC-900T00: أساسيات الأمان والتوافق والهوية في Microsoft**.  تشترط كل من البرامج النصية للعروض التوضيحية والأنشطة المعملية الوصول إلى حساب مستأجر WWL M365 Enterprise 2019 SPE_E5 المكون مسبقًا، المتوفر من خلال مضيف معمل معتمد (ALH)، واستخدام اشتراك Azure المقدم من ALH. يمكن تشغيل البرامج النصية للعروض التوضيحية وإرشادات الأنشطة المعملية على حساب مستأجر Microsoft 365 واشتراك Azure خاصين بالمستخدم، ولكن هذا غير مضمون لأن بعض الميزات قد لا تكون مُمَكَّنة من خلال الاشتراك الشخصي للمستخدم.
